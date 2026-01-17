@@ -119,6 +119,7 @@ Potential extensions:
 Jeffrey Olney
 GitHub | LinkedIn
 
-## License
+Related Projects
 
-This project is available for educational and research purposes.
+Health Disparity Analysis (Streamlit App):
+https://github.com/olneyjR/health-disparity-analysis
