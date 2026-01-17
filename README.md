@@ -1,4 +1,5 @@
-[![Health Disparity Analysis App](./banner.png)](https://health-disparity-analysis-2025.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://health-disparity-analysis-2025.streamlit.app/)
+
 
 # Health Disparity Analysis
 
