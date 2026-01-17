@@ -117,6 +117,7 @@ Potential extensions:
 ## Author
 
 Jeffrey Olney
+GitHub | LinkedIn
 
 ## License
 
