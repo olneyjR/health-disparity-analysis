@@ -116,10 +116,12 @@ Potential extensions:
 
 ## Author
 
-Jeffrey Olney
-GitHub | LinkedIn
+**Jeffrey Olney**  
+[GitHub](https://github.com/olneyjR) | [LinkedIn](https://www.linkedin.com/in/jeffrey-olney/)
 
-Related Projects
+**Related Projects**  
+[Health Disparity Analysis (Streamlit App)](https://github.com/olneyjR/health-disparity-analysis)
 
-Health Disparity Analysis (Streamlit App):
-https://github.com/olneyjR/health-disparity-analysis
+## License
+
+This project is available for educational and research purposes.
