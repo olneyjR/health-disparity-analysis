@@ -1,0 +1,1419 @@
+State,Measure,Metro_Value,Nonmetro_Value,Gap
+AK,Volunteerism,30.8,39.0,8.2
+AK,Avoided Care Due to Cost,12.7,10.2,2.5
+AK,Cancer Screenings,58.5,54.2,4.299999999999997
+AK,Breast Cancer Screening,71.6,63.5,8.099999999999994
+AK,Colorectal Cancer Screening,65.1,62.1,2.999999999999993
+AK,Dental Visit,66.2,63.9,2.3000000000000043
+AK,Flu Vaccination,37.9,33.8,4.100000000000001
+AK,Dedicated Health Care Provider,78.5,78.1,0.4000000000000057
+AK,Exercise,34.1,33.9,0.20000000000000284
+AK,Fruit and Vegetable Consumption,9.1,8.4,0.6999999999999993
+AK,Physical Inactivity,17.8,19.2,1.3999999999999986
+AK,High-Risk HIV Behaviors,6.4,5.3,1.1000000000000005
+AK,Insufficient Sleep,37.6,35.4,2.200000000000003
+AK,E-Cigarette Use,8.7,7.7,0.9999999999999991
+AK,Smoking,14.2,16.0,1.8000000000000007
+AK,Excessive Drinking,20.6,19.4,1.2000000000000028
+AK,Frequent Mental Distress,17.0,13.0,4.0
+AK,Frequent Physical Distress,14.1,13.3,0.7999999999999989
+AK,High Health Status,46.5,47.4,0.8999999999999986
+AK,Low Birth Weight,6.6,6.8,0.20000000000000018
+AK,Multiple Chronic Conditions,10.6,9.6,1.0
+AK,Arthritis,26.0,27.5,1.5
+AK,Asthma,11.8,8.8,3.0
+AK,Cancer,7.2,7.9,0.7000000000000002
+AK,Cardiovascular Diseases,8.0,9.3,1.3000000000000007
+AK,Chronic Kidney Disease,3.1,3.3,0.19999999999999973
+AK,Chronic Obstructive Pulmonary Disease,6.3,5.9,0.39999999999999947
+AK,Depression,23.6,18.4,5.200000000000003
+AK,Diabetes,9.9,8.4,1.5
+AK,High Blood Pressure,32.5,36.5,4.0
+AK,High Cholesterol,33.8,35.4,1.6000000000000014
+AK,Obesity,34.3,32.9,1.3999999999999986
+AL,Volunteerism,20.9,18.1,2.799999999999997
+AL,Avoided Care Due to Cost,12.7,18.6,5.900000000000002
+AL,Cancer Screenings,65.7,61.4,4.300000000000004
+AL,Breast Cancer Screening,76.0,72.1,3.9000000000000057
+AL,Colorectal Cancer Screening,71.2,67.8,3.4000000000000057
+AL,Dental Visit,67.3,56.3,11.0
+AL,Flu Vaccination,36.3,32.5,3.799999999999997
+AL,Dedicated Health Care Provider,85.1,86.2,1.1000000000000085
+AL,Exercise,26.4,21.0,5.399999999999999
+AL,Fruit and Vegetable Consumption,4.5,5.8,1.2999999999999998
+AL,Physical Inactivity,26.4,31.6,5.200000000000003
+AL,High-Risk HIV Behaviors,6.9,6.0,0.9000000000000004
+AL,Insufficient Sleep,40.2,41.2,1.0
+AL,E-Cigarette Use,9.8,10.3,0.5
+AL,Smoking,12.8,18.1,5.300000000000001
+AL,Excessive Drinking,17.3,13.2,4.100000000000001
+AL,Frequent Mental Distress,17.6,19.2,1.5999999999999979
+AL,Frequent Physical Distress,14.4,17.6,3.200000000000001
+AL,High Health Status,44.9,36.9,8.0
+AL,Low Birth Weight,10.5,10.1,0.40000000000000036
+AL,Multiple Chronic Conditions,15.2,17.7,2.5
+AL,Arthritis,33.5,38.4,4.899999999999999
+AL,Asthma,11.0,10.4,0.5999999999999996
+AL,Cancer,8.7,8.9,0.20000000000000107
+AL,Cardiovascular Diseases,11.1,14.5,3.4000000000000004
+AL,Chronic Kidney Disease,4.2,3.8,0.40000000000000036
+AL,Chronic Obstructive Pulmonary Disease,8.2,11.0,2.8000000000000007
+AL,Depression,24.4,26.2,1.8000000000000007
+AL,Diabetes,14.4,17.2,2.799999999999999
+AL,High Blood Pressure,41.8,53.3,11.5
+AL,High Cholesterol,40.8,46.9,6.100000000000001
+AL,Obesity,37.3,44.4,7.100000000000001
+AR,Volunteerism,29.6,24.4,5.200000000000003
+AR,Avoided Care Due to Cost,14.8,16.0,1.1999999999999993
+AR,Cancer Screenings,64.0,56.1,7.899999999999999
+AR,Breast Cancer Screening,74.1,64.7,9.399999999999991
+AR,Colorectal Cancer Screening,70.9,64.0,6.900000000000006
+AR,Dental Visit,61.5,54.2,7.299999999999997
+AR,Flu Vaccination,41.3,32.8,8.5
+AR,Dedicated Health Care Provider,86.5,87.5,1.0
+AR,Exercise,29.0,23.5,5.5
+AR,Fruit and Vegetable Consumption,11.5,8.1,3.4000000000000004
+AR,Physical Inactivity,25.8,32.8,6.9999999999999964
+AR,High-Risk HIV Behaviors,7.6,4.2,3.3999999999999995
+AR,Insufficient Sleep,38.0,39.8,1.7999999999999972
+AR,E-Cigarette Use,10.4,11.1,0.6999999999999993
+AR,Smoking,14.0,20.4,6.399999999999999
+AR,Excessive Drinking,16.9,13.1,3.799999999999999
+AR,Frequent Mental Distress,20.1,19.7,0.40000000000000213
+AR,Frequent Physical Distress,15.9,21.1,5.200000000000001
+AR,High Health Status,42.1,36.9,5.200000000000003
+AR,Low Birth Weight,9.9,9.1,0.8000000000000007
+AR,Multiple Chronic Conditions,13.5,18.4,4.899999999999999
+AR,Arthritis,27.7,37.2,9.500000000000004
+AR,Asthma,10.9,11.4,0.5
+AR,Cancer,8.3,9.4,1.0999999999999996
+AR,Cardiovascular Diseases,11.1,14.8,3.700000000000001
+AR,Chronic Kidney Disease,3.5,4.7,1.2000000000000002
+AR,Chronic Obstructive Pulmonary Disease,8.0,12.1,4.1
+AR,Depression,25.3,24.9,0.40000000000000213
+AR,Diabetes,14.2,17.2,3.0
+AR,High Blood Pressure,40.5,45.3,4.799999999999997
+AR,High Cholesterol,38.9,42.0,3.1000000000000014
+AR,Obesity,37.5,41.1,3.6000000000000014
+AZ,Avoided Care Due to Cost,13.2,10.0,3.1999999999999993
+AZ,Cancer Screenings,60.8,54.0,6.799999999999997
+AZ,Breast Cancer Screening,74.3,67.2,7.099999999999994
+AZ,Colorectal Cancer Screening,67.5,60.8,6.700000000000003
+AZ,Dental Visit,63.4,58.3,5.100000000000001
+AZ,Flu Vaccination,37.2,32.4,4.800000000000004
+AZ,Dedicated Health Care Provider,79.5,79.8,0.29999999999999716
+AZ,Exercise,33.3,33.5,0.20000000000000284
+AZ,Fruit and Vegetable Consumption,6.3,7.5,1.2000000000000002
+AZ,Physical Inactivity,21.8,23.8,2.0
+AZ,High-Risk HIV Behaviors,6.4,2.7,3.7
+AZ,Insufficient Sleep,34.9,31.8,3.099999999999998
+AZ,E-Cigarette Use,8.6,7.4,1.1999999999999993
+AZ,Smoking,10.1,10.3,0.20000000000000107
+AZ,Excessive Drinking,17.8,15.2,2.6000000000000014
+AZ,Frequent Mental Distress,14.3,12.3,2.0
+AZ,Frequent Physical Distress,13.1,13.6,0.5
+AZ,High Health Status,47.4,41.7,5.699999999999996
+AZ,Low Birth Weight,8.1,7.6,0.5
+AZ,Multiple Chronic Conditions,10.7,11.7,1.0
+AZ,Arthritis,26.1,27.6,1.5
+AZ,Asthma,11.1,10.3,0.7999999999999989
+AZ,Cancer,9.1,10.0,0.9000000000000004
+AZ,Cardiovascular Diseases,9.5,9.2,0.3000000000000007
+AZ,Chronic Kidney Disease,4.1,6.4,2.3000000000000007
+AZ,Chronic Obstructive Pulmonary Disease,5.3,6.8,1.5
+AZ,Depression,19.3,16.4,2.900000000000002
+AZ,Diabetes,11.4,14.6,3.1999999999999993
+AZ,High Blood Pressure,33.3,36.2,2.9000000000000057
+AZ,High Cholesterol,38.9,34.8,4.100000000000001
+AZ,Obesity,33.2,36.4,3.1999999999999957
+CA,Volunteerism,24.0,29.8,5.800000000000001
+CA,Avoided Care Due to Cost,11.3,19.8,8.5
+CA,Cancer Screenings,58.6,54.5,4.100000000000001
+CA,Breast Cancer Screening,72.8,72.2,0.5999999999999943
+CA,Colorectal Cancer Screening,65.3,61.1,4.199999999999996
+CA,Dental Visit,68.2,62.0,6.200000000000003
+CA,Flu Vaccination,42.0,34.0,8.0
+CA,Dedicated Health Care Provider,79.7,78.8,0.9000000000000057
+CA,Exercise,30.0,31.4,1.3999999999999986
+CA,Physical Inactivity,20.7,20.5,0.1999999999999993
+CA,High-Risk HIV Behaviors,6.7,6.3,0.40000000000000036
+CA,Insufficient Sleep,34.7,38.0,3.299999999999997
+CA,Smoking,7.4,13.3,5.9
+CA,Excessive Drinking,16.4,22.8,6.400000000000002
+CA,Frequent Mental Distress,14.6,22.6,8.000000000000002
+CA,Frequent Physical Distress,12.5,13.0,0.5
+CA,High Health Status,43.6,41.2,2.3999999999999986
+CA,Low Birth Weight,7.5,6.7,0.7999999999999998
+CA,Multiple Chronic Conditions,8.0,10.0,2.0
+CA,Arthritis,21.0,30.8,9.8
+CA,Asthma,8.1,8.6,0.5
+CA,Cancer,6.9,12.5,5.6
+CA,Cardiovascular Diseases,7.3,11.0,3.7
+CA,Chronic Obstructive Pulmonary Disease,3.9,5.4,1.5000000000000004
+CA,Depression,17.6,23.5,5.899999999999999
+CA,Diabetes,12.6,11.4,1.1999999999999993
+CA,High Blood Pressure,30.3,38.4,8.099999999999998
+CA,High Cholesterol,37.0,37.7,0.7000000000000028
+CA,Obesity,28.9,32.6,3.700000000000003
+CO,Volunteerism,35.3,31.2,4.099999999999998
+CO,Avoided Care Due to Cost,14.3,12.8,1.5
+CO,Cancer Screenings,65.4,57.6,7.800000000000004
+CO,Breast Cancer Screening,73.5,65.8,7.700000000000003
+CO,Colorectal Cancer Screening,72.3,64.8,7.5
+CO,Dental Visit,69.5,61.6,7.899999999999999
+CO,Flu Vaccination,46.2,35.9,10.300000000000004
+CO,Dedicated Health Care Provider,81.3,80.2,1.0999999999999943
+CO,Exercise,35.4,35.6,0.20000000000000284
+CO,Fruit and Vegetable Consumption,8.7,9.3,0.6000000000000014
+CO,Physical Inactivity,15.3,17.7,2.3999999999999986
+CO,High-Risk HIV Behaviors,6.3,5.9,0.39999999999999947
+CO,Insufficient Sleep,30.6,28.0,2.6000000000000014
+CO,E-Cigarette Use,9.2,6.1,3.0999999999999996
+CO,Smoking,9.3,12.4,3.0999999999999996
+CO,Excessive Drinking,19.5,19.1,0.3999999999999986
+CO,Frequent Mental Distress,15.5,12.8,2.6999999999999993
+CO,Frequent Physical Distress,12.1,10.5,1.5999999999999996
+CO,High Health Status,50.9,53.0,2.1000000000000014
+CO,Low Birth Weight,9.7,10.3,0.6000000000000014
+CO,Multiple Chronic Conditions,9.5,11.7,2.1999999999999993
+CO,Arthritis,24.2,29.0,4.800000000000001
+CO,Asthma,11.9,10.6,1.3000000000000007
+CO,Cancer,8.5,9.9,1.4000000000000004
+CO,Cardiovascular Diseases,7.1,9.8,2.700000000000001
+CO,Chronic Kidney Disease,3.5,3.3,0.20000000000000018
+CO,Chronic Obstructive Pulmonary Disease,5.1,7.5,2.4000000000000004
+CO,Depression,23.5,19.6,3.8999999999999986
+CO,Diabetes,8.4,8.2,0.20000000000000107
+CO,High Blood Pressure,26.8,31.0,4.199999999999999
+CO,High Cholesterol,32.3,34.1,1.8000000000000043
+CO,Obesity,25.0,24.6,0.3999999999999986
+CT,Low Birth Weight,8.0,5.4,2.5999999999999996
+FL,Volunteerism,20.5,15.6,4.9
+FL,Avoided Care Due to Cost,14.3,14.1,0.20000000000000107
+FL,Cancer Screenings,64.3,54.2,10.099999999999994
+FL,Breast Cancer Screening,76.9,71.1,5.800000000000011
+FL,Colorectal Cancer Screening,69.3,62.4,6.899999999999999
+FL,Dental Visit,64.0,54.5,9.5
+FL,Flu Vaccination,33.6,30.0,3.6000000000000014
+FL,Dedicated Health Care Provider,82.4,81.8,0.6000000000000085
+FL,Exercise,31.7,25.9,5.800000000000001
+FL,Physical Inactivity,24.6,33.5,8.899999999999999
+FL,High-Risk HIV Behaviors,6.5,2.4,4.1
+FL,Insufficient Sleep,37.4,38.7,1.3000000000000043
+FL,E-Cigarette Use,6.4,6.7,0.2999999999999998
+FL,Smoking,10.5,14.1,3.5999999999999996
+FL,Excessive Drinking,16.2,14.0,2.1999999999999993
+FL,Frequent Mental Distress,15.7,14.8,0.8999999999999986
+FL,Frequent Physical Distress,13.4,18.8,5.4
+FL,High Health Status,48.2,41.5,6.700000000000003
+FL,Low Birth Weight,9.1,8.6,0.5
+FL,Multiple Chronic Conditions,10.8,14.7,3.8999999999999986
+FL,Arthritis,27.3,32.1,4.800000000000001
+FL,Asthma,9.0,9.5,0.5
+FL,Cancer,10.4,13.9,3.5
+FL,Cardiovascular Diseases,9.7,12.6,2.9000000000000004
+FL,Chronic Kidney Disease,4.5,4.7,0.20000000000000018
+FL,Chronic Obstructive Pulmonary Disease,7.0,9.9,2.9000000000000004
+FL,Depression,17.9,18.9,1.0
+FL,Diabetes,11.9,14.2,2.299999999999999
+FL,High Blood Pressure,35.7,40.7,5.0
+FL,High Cholesterol,39.2,42.0,2.799999999999997
+FL,Obesity,29.3,38.1,8.8
+GA,Volunteerism,27.8,14.9,12.9
+GA,Avoided Care Due to Cost,16.0,18.7,2.6999999999999993
+GA,Cancer Screenings,63.0,60.2,2.799999999999997
+GA,Breast Cancer Screening,73.8,68.7,5.099999999999994
+GA,Colorectal Cancer Screening,70.0,67.6,2.4000000000000057
+GA,Dental Visit,64.8,56.3,8.5
+GA,Flu Vaccination,36.4,35.3,1.1000000000000014
+GA,Dedicated Health Care Provider,83.5,84.4,0.9000000000000057
+GA,Exercise,29.6,29.7,0.09999999999999787
+GA,Fruit and Vegetable Consumption,9.3,7.0,2.3000000000000007
+GA,Physical Inactivity,21.7,29.3,7.600000000000001
+GA,High-Risk HIV Behaviors,7.0,5.4,1.5999999999999996
+GA,Insufficient Sleep,38.3,37.5,0.7999999999999972
+GA,E-Cigarette Use,6.8,11.2,4.3999999999999995
+GA,Smoking,10.2,16.2,6.0
+GA,Excessive Drinking,14.6,12.8,1.799999999999999
+GA,Frequent Mental Distress,16.0,16.7,0.6999999999999993
+GA,Frequent Physical Distress,13.4,18.6,5.200000000000001
+GA,High Health Status,46.8,40.5,6.299999999999997
+GA,Low Birth Weight,10.1,10.4,0.3000000000000007
+GA,Multiple Chronic Conditions,10.0,17.9,7.899999999999999
+GA,Arthritis,24.0,34.9,10.899999999999999
+GA,Asthma,9.7,11.1,1.4000000000000004
+GA,Cancer,7.2,10.2,2.999999999999999
+GA,Cardiovascular Diseases,8.6,13.8,5.200000000000001
+GA,Chronic Kidney Disease,4.3,6.8,2.5
+GA,Chronic Obstructive Pulmonary Disease,5.8,11.2,5.3999999999999995
+GA,Depression,18.0,20.4,2.3999999999999986
+GA,Diabetes,12.2,16.1,3.900000000000002
+GA,High Blood Pressure,34.3,42.0,7.700000000000003
+GA,High Cholesterol,36.6,38.2,1.6000000000000014
+GA,Obesity,34.8,38.2,3.4000000000000057
+HI,Volunteerism,27.5,39.2,11.700000000000003
+HI,Avoided Care Due to Cost,5.8,8.4,2.6000000000000005
+HI,Cancer Screenings,66.6,60.4,6.199999999999996
+HI,Breast Cancer Screening,80.7,72.3,8.400000000000006
+HI,Colorectal Cancer Screening,70.6,66.2,4.3999999999999915
+HI,Dental Visit,75.7,69.6,6.1000000000000085
+HI,Flu Vaccination,47.3,39.1,8.199999999999996
+HI,Dedicated Health Care Provider,88.1,84.1,4.0
+HI,Exercise,32.0,31.1,0.8999999999999986
+HI,Fruit and Vegetable Consumption,7.6,9.1,1.5
+HI,Physical Inactivity,21.3,21.1,0.1999999999999993
+HI,High-Risk HIV Behaviors,5.7,5.1,0.6000000000000005
+HI,Insufficient Sleep,46.8,40.4,6.399999999999999
+HI,E-Cigarette Use,9.0,10.7,1.6999999999999993
+HI,Smoking,7.3,11.3,4.000000000000001
+HI,Excessive Drinking,16.7,18.7,2.0
+HI,Frequent Mental Distress,12.4,13.6,1.1999999999999993
+HI,Frequent Physical Distress,11.0,13.2,2.1999999999999993
+HI,High Health Status,44.8,47.1,2.3000000000000043
+HI,Low Birth Weight,8.8,8.4,0.40000000000000036
+HI,Multiple Chronic Conditions,8.8,10.0,1.1999999999999993
+HI,Arthritis,23.9,26.1,2.200000000000003
+HI,Asthma,9.0,11.6,2.5999999999999996
+HI,Cancer,6.4,8.7,2.299999999999999
+HI,Cardiovascular Diseases,8.4,9.9,1.5
+HI,Chronic Kidney Disease,5.0,4.4,0.5999999999999996
+HI,Chronic Obstructive Pulmonary Disease,4.5,5.0,0.5
+HI,Depression,14.0,16.2,2.1999999999999993
+HI,Diabetes,11.7,10.9,0.7999999999999989
+HI,High Blood Pressure,32.3,32.9,0.6000000000000014
+HI,High Cholesterol,37.8,36.4,1.3999999999999986
+HI,Obesity,26.9,27.3,0.40000000000000213
+IA,Volunteerism,32.7,39.9,7.199999999999996
+IA,Avoided Care Due to Cost,8.7,7.1,1.5999999999999996
+IA,Cancer Screenings,68.3,64.8,3.5
+IA,Breast Cancer Screening,76.4,74.6,1.8000000000000114
+IA,Colorectal Cancer Screening,73.2,69.6,3.6000000000000085
+IA,Dental Visit,71.4,67.0,4.400000000000006
+IA,Flu Vaccination,44.5,39.7,4.799999999999997
+IA,Dedicated Health Care Provider,81.5,80.5,1.0
+IA,Exercise,27.4,24.0,3.3999999999999986
+IA,Fruit and Vegetable Consumption,7.0,6.3,0.7000000000000002
+IA,Physical Inactivity,19.7,24.7,5.0
+IA,High-Risk HIV Behaviors,5.8,4.4,1.3999999999999995
+IA,Insufficient Sleep,32.7,33.1,0.3999999999999986
+IA,E-Cigarette Use,9.4,8.2,1.200000000000001
+IA,Smoking,11.7,14.6,2.9000000000000004
+IA,Excessive Drinking,22.7,19.6,3.099999999999998
+IA,Frequent Mental Distress,15.6,13.8,1.799999999999999
+IA,Frequent Physical Distress,11.2,12.5,1.3000000000000007
+IA,High Health Status,46.4,43.5,2.8999999999999986
+IA,Low Birth Weight,7.9,7.1,0.8000000000000007
+IA,Multiple Chronic Conditions,9.4,10.8,1.4000000000000004
+IA,Arthritis,24.6,29.3,4.699999999999999
+IA,Asthma,10.2,8.3,1.8999999999999986
+IA,Cancer,8.8,8.7,0.10000000000000142
+IA,Cardiovascular Diseases,8.0,10.3,2.3000000000000007
+IA,Chronic Kidney Disease,3.4,4.3,0.8999999999999999
+IA,Chronic Obstructive Pulmonary Disease,5.5,6.4,0.9000000000000004
+IA,Depression,21.3,17.7,3.6000000000000014
+IA,Diabetes,10.8,12.2,1.3999999999999986
+IA,High Blood Pressure,31.8,38.3,6.4999999999999964
+IA,High Cholesterol,36.4,37.0,0.6000000000000014
+IA,Obesity,35.3,38.5,3.200000000000003
+ID,Volunteerism,32.6,38.1,5.5
+ID,Avoided Care Due to Cost,10.9,13.2,2.299999999999999
+ID,Cancer Screenings,62.4,60.3,2.1000000000000014
+ID,Breast Cancer Screening,69.4,64.0,5.400000000000006
+ID,Colorectal Cancer Screening,69.3,68.7,0.5999999999999943
+ID,Dental Visit,70.6,66.2,4.3999999999999915
+ID,Flu Vaccination,35.8,30.4,5.399999999999999
+ID,Dedicated Health Care Provider,80.7,81.4,0.7000000000000028
+ID,Exercise,29.3,29.8,0.5
+ID,Fruit and Vegetable Consumption,5.3,5.8,0.5
+ID,Physical Inactivity,20.1,21.9,1.7999999999999972
+ID,High-Risk HIV Behaviors,5.2,4.6,0.6000000000000005
+ID,Insufficient Sleep,33.1,31.4,1.7000000000000028
+ID,E-Cigarette Use,7.5,8.9,1.4000000000000004
+ID,Smoking,8.4,11.8,3.4000000000000004
+ID,Excessive Drinking,15.4,15.1,0.3000000000000007
+ID,Frequent Mental Distress,16.1,14.6,1.5000000000000018
+ID,Frequent Physical Distress,13.0,15.7,2.6999999999999993
+ID,High Health Status,51.6,47.7,3.8999999999999986
+ID,Low Birth Weight,6.8,7.2,0.40000000000000036
+ID,Multiple Chronic Conditions,9.3,9.5,0.1999999999999993
+ID,Arthritis,24.7,28.7,4.0
+ID,Asthma,10.2,9.2,1.0
+ID,Cancer,8.7,8.3,0.3999999999999986
+ID,Cardiovascular Diseases,6.7,8.6,1.8999999999999995
+ID,Chronic Kidney Disease,4.1,2.2,1.8999999999999995
+ID,Chronic Obstructive Pulmonary Disease,4.8,5.2,0.40000000000000036
+ID,Depression,21.8,20.6,1.1999999999999993
+ID,Diabetes,9.7,8.6,1.0999999999999996
+ID,High Blood Pressure,30.7,32.3,1.5999999999999979
+ID,High Cholesterol,35.1,32.9,2.200000000000003
+ID,Obesity,32.1,33.9,1.7999999999999972
+IL,Volunteerism,30.3,31.2,0.8999999999999986
+IL,Avoided Care Due to Cost,11.9,10.0,1.9000000000000004
+IL,Cancer Screenings,62.9,59.5,3.3999999999999986
+IL,Breast Cancer Screening,76.3,67.3,9.0
+IL,Colorectal Cancer Screening,68.0,66.8,1.2000000000000028
+IL,Dental Visit,66.6,58.5,8.099999999999994
+IL,Flu Vaccination,40.7,33.7,7.0
+IL,Dedicated Health Care Provider,82.2,86.4,4.200000000000003
+IL,Exercise,29.4,26.6,2.799999999999997
+IL,Fruit and Vegetable Consumption,6.4,5.1,1.3000000000000007
+IL,Physical Inactivity,22.5,30.2,7.699999999999999
+IL,High-Risk HIV Behaviors,5.8,4.9,0.8999999999999995
+IL,Insufficient Sleep,35.5,40.6,5.100000000000001
+IL,E-Cigarette Use,6.4,10.0,3.5999999999999996
+IL,Smoking,9.8,16.1,6.300000000000001
+IL,Excessive Drinking,19.5,18.5,1.0
+IL,Frequent Mental Distress,12.9,13.7,0.7999999999999989
+IL,Frequent Physical Distress,11.8,15.8,4.0
+IL,High Health Status,44.5,40.8,3.700000000000003
+IL,Low Birth Weight,8.9,8.3,0.5999999999999996
+IL,Multiple Chronic Conditions,10.3,15.4,5.1
+IL,Arthritis,24.8,34.1,9.3
+IL,Asthma,9.8,13.2,3.3999999999999986
+IL,Cancer,7.8,8.9,1.1000000000000005
+IL,Cardiovascular Diseases,8.1,10.1,2.0
+IL,Chronic Kidney Disease,4.1,5.6,1.5
+IL,Chronic Obstructive Pulmonary Disease,5.5,9.9,4.4
+IL,Depression,20.3,24.9,4.599999999999998
+IL,Diabetes,12.8,13.1,0.29999999999999893
+IL,High Blood Pressure,32.8,38.0,5.200000000000003
+IL,High Cholesterol,36.6,34.1,2.5
+IL,Obesity,33.1,42.1,9.0
+IN,Volunteerism,34.1,29.0,5.100000000000001
+IN,Avoided Care Due to Cost,11.9,10.0,1.9000000000000004
+IN,Cancer Screenings,64.2,63.7,0.5
+IN,Breast Cancer Screening,72.7,73.2,0.5
+IN,Colorectal Cancer Screening,70.4,70.0,0.4000000000000057
+IN,Dental Visit,66.5,60.6,5.899999999999999
+IN,Flu Vaccination,41.2,34.2,7.0
+IN,Dedicated Health Care Provider,87.1,86.7,0.3999999999999915
+IN,Exercise,30.5,25.1,5.399999999999999
+IN,Fruit and Vegetable Consumption,8.7,8.6,0.09999999999999964
+IN,Physical Inactivity,23.5,28.3,4.800000000000001
+IN,High-Risk HIV Behaviors,6.1,4.4,1.6999999999999993
+IN,Insufficient Sleep,38.0,36.3,1.7000000000000028
+IN,E-Cigarette Use,8.7,10.8,2.1000000000000014
+IN,Smoking,13.3,16.1,2.8000000000000007
+IN,Excessive Drinking,16.4,14.2,2.1999999999999993
+IN,Frequent Mental Distress,17.0,16.7,0.3000000000000007
+IN,Frequent Physical Distress,13.8,14.7,0.8999999999999986
+IN,High Health Status,43.9,41.8,2.1000000000000014
+IN,Low Birth Weight,8.9,7.7,1.2000000000000002
+IN,Multiple Chronic Conditions,13.7,16.3,2.6000000000000014
+IN,Arthritis,28.5,34.7,6.200000000000003
+IN,Asthma,11.1,10.5,0.5999999999999996
+IN,Cancer,8.7,9.6,0.9000000000000004
+IN,Cardiovascular Diseases,10.5,12.1,1.5999999999999996
+IN,Chronic Kidney Disease,5.1,4.5,0.5999999999999996
+IN,Chronic Obstructive Pulmonary Disease,8.3,10.6,2.299999999999999
+IN,Depression,24.2,25.4,1.1999999999999993
+IN,Diabetes,14.0,15.1,1.0999999999999996
+IN,High Blood Pressure,36.8,40.5,3.700000000000003
+IN,High Cholesterol,38.6,42.0,3.3999999999999986
+IN,Obesity,37.9,40.2,2.3000000000000043
+KS,Volunteerism,39.2,40.7,1.5
+KS,Avoided Care Due to Cost,11.7,11.0,0.6999999999999993
+KS,Cancer Screenings,66.5,57.3,9.200000000000003
+KS,Breast Cancer Screening,74.3,68.7,5.599999999999994
+KS,Colorectal Cancer Screening,73.0,63.7,9.299999999999997
+KS,Dental Visit,71.3,61.9,9.399999999999999
+KS,Flu Vaccination,42.8,33.8,9.0
+KS,Dedicated Health Care Provider,83.0,82.1,0.9000000000000057
+KS,Exercise,27.9,24.1,3.799999999999997
+KS,Fruit and Vegetable Consumption,6.5,6.6,0.09999999999999964
+KS,Physical Inactivity,20.1,27.6,7.5
+KS,High-Risk HIV Behaviors,5.6,3.9,1.6999999999999997
+KS,Insufficient Sleep,35.7,35.0,0.7000000000000028
+KS,E-Cigarette Use,9.1,10.0,0.9000000000000004
+KS,Smoking,12.4,16.5,4.1
+KS,Excessive Drinking,17.9,17.3,0.5999999999999979
+KS,Frequent Mental Distress,15.7,16.2,0.5
+KS,Frequent Physical Distress,11.2,13.8,2.6000000000000014
+KS,High Health Status,48.9,43.3,5.600000000000001
+KS,Low Birth Weight,7.7,7.5,0.20000000000000018
+KS,Multiple Chronic Conditions,10.5,13.4,2.9000000000000004
+KS,Arthritis,26.1,29.5,3.3999999999999986
+KS,Asthma,11.3,11.6,0.29999999999999893
+KS,Cancer,8.4,8.6,0.1999999999999993
+KS,Cardiovascular Diseases,8.7,10.7,2.0
+KS,Chronic Kidney Disease,3.4,4.1,0.6999999999999997
+KS,Chronic Obstructive Pulmonary Disease,6.3,8.0,1.7000000000000002
+KS,Depression,21.6,20.8,0.8000000000000007
+KS,Diabetes,11.6,14.6,3.0
+KS,High Blood Pressure,33.6,37.1,3.5
+KS,High Cholesterol,38.8,37.7,1.0999999999999943
+KS,Obesity,36.2,40.6,4.399999999999999
+KY,Volunteerism,28.7,25.8,2.8999999999999986
+KY,Avoided Care Due to Cost,12.2,12.4,0.20000000000000107
+KY,Cancer Screenings,67.7,59.1,8.600000000000001
+KY,Breast Cancer Screening,76.4,68.4,8.0
+KY,Colorectal Cancer Screening,73.8,67.2,6.599999999999994
+KY,Dental Visit,62.1,53.8,8.300000000000004
+KY,Flu Vaccination,45.4,34.1,11.299999999999997
+KY,Dedicated Health Care Provider,84.5,87.8,3.299999999999997
+KY,Fruit and Vegetable Consumption,9.1,8.7,0.40000000000000036
+KY,Physical Inactivity,24.2,33.3,9.099999999999998
+KY,High-Risk HIV Behaviors,6.1,4.6,1.5
+KY,Insufficient Sleep,37.6,41.7,4.100000000000001
+KY,E-Cigarette Use,10.1,11.6,1.5
+KY,Smoking,15.4,19.6,4.200000000000001
+KY,Excessive Drinking,18.2,10.2,8.0
+KY,Frequent Mental Distress,16.9,20.5,3.6000000000000014
+KY,Frequent Physical Distress,15.4,20.2,4.799999999999999
+KY,High Health Status,44.0,36.8,7.200000000000003
+KY,Low Birth Weight,8.8,8.9,0.09999999999999964
+KY,Multiple Chronic Conditions,15.7,21.2,5.5
+KY,Arthritis,30.8,39.1,8.3
+KY,Asthma,12.3,13.1,0.7999999999999989
+KY,Cancer,8.6,10.5,1.9000000000000004
+KY,Cardiovascular Diseases,11.7,14.1,2.4000000000000004
+KY,Chronic Kidney Disease,4.9,6.3,1.3999999999999995
+KY,Chronic Obstructive Pulmonary Disease,8.3,14.6,6.299999999999999
+KY,Depression,27.8,29.1,1.3000000000000007
+KY,Diabetes,14.7,18.2,3.5
+KY,Obesity,35.1,40.0,4.899999999999999
+LA,Avoided Care Due to Cost,14.7,15.1,0.40000000000000036
+LA,Cancer Screenings,68.5,63.2,5.299999999999997
+LA,Breast Cancer Screening,79.6,69.9,9.699999999999989
+LA,Colorectal Cancer Screening,73.5,71.7,1.7999999999999972
+LA,Dental Visit,63.3,50.7,12.599999999999994
+LA,Flu Vaccination,35.5,25.5,10.0
+LA,Dedicated Health Care Provider,86.5,88.4,1.9000000000000057
+LA,Exercise,27.4,24.2,3.1999999999999993
+LA,Fruit and Vegetable Consumption,6.7,3.5,3.2
+LA,Physical Inactivity,26.6,32.5,5.899999999999999
+LA,High-Risk HIV Behaviors,6.6,8.4,1.8000000000000007
+LA,Insufficient Sleep,40.0,38.7,1.2999999999999972
+LA,E-Cigarette Use,9.0,12.6,3.5999999999999996
+LA,Smoking,14.6,16.9,2.299999999999999
+LA,Excessive Drinking,19.1,17.1,2.0
+LA,Frequent Mental Distress,19.7,20.2,0.5
+LA,Frequent Physical Distress,14.7,17.7,3.0
+LA,High Health Status,42.2,39.5,2.700000000000003
+LA,Low Birth Weight,11.2,11.3,0.10000000000000142
+LA,Multiple Chronic Conditions,14.1,16.2,2.0999999999999996
+LA,Arthritis,30.8,35.6,4.800000000000001
+LA,Asthma,9.9,10.8,0.9000000000000004
+LA,Cancer,8.4,8.6,0.1999999999999993
+LA,Cardiovascular Diseases,11.8,14.0,2.1999999999999993
+LA,Chronic Kidney Disease,5.0,4.5,0.5
+LA,Chronic Obstructive Pulmonary Disease,7.6,9.8,2.200000000000001
+LA,Depression,26.4,27.9,1.5
+LA,Diabetes,15.2,16.5,1.3000000000000007
+LA,High Blood Pressure,42.1,49.8,7.699999999999996
+LA,High Cholesterol,38.7,43.6,4.899999999999999
+LA,Obesity,38.8,41.4,2.6000000000000014
+MA,Cancer Screenings,72.4,65.4,7.0
+MA,Colorectal Cancer Screening,78.2,74.4,3.799999999999997
+MA,Dental Visit,74.7,68.9,5.799999999999997
+MA,Flu Vaccination,53.8,47.4,6.399999999999999
+MA,Dedicated Health Care Provider,89.9,82.4,7.5
+MA,Exercise,31.1,31.6,0.5
+MA,Physical Inactivity,18.6,28.5,9.899999999999999
+MA,Insufficient Sleep,32.6,37.0,4.399999999999999
+MA,Excessive Drinking,17.0,19.3,2.3000000000000007
+MA,Frequent Mental Distress,13.2,17.8,4.600000000000001
+MA,High Health Status,53.5,47.5,6.0
+MA,Low Birth Weight,7.6,7.1,0.5
+MA,Multiple Chronic Conditions,9.8,11.7,1.8999999999999986
+MA,Arthritis,25.2,28.8,3.6000000000000014
+MA,Asthma,11.5,13.3,1.8000000000000007
+MA,Cancer,8.9,10.6,1.6999999999999993
+MA,Depression,20.9,27.4,6.5
+MA,Diabetes,9.5,14.0,4.5
+MA,High Blood Pressure,30.9,34.5,3.6000000000000014
+MA,High Cholesterol,35.8,27.5,8.299999999999997
+MA,Obesity,26.9,35.0,8.100000000000001
+MD,Avoided Care Due to Cost,10.1,9.4,0.6999999999999993
+MD,Cancer Screenings,69.1,69.2,0.10000000000000853
+MD,Breast Cancer Screening,79.1,77.9,1.1999999999999886
+MD,Colorectal Cancer Screening,74.7,74.9,0.20000000000000284
+MD,Dental Visit,70.7,69.5,1.2000000000000028
+MD,Flu Vaccination,50.1,42.7,7.399999999999999
+MD,Dedicated Health Care Provider,88.8,89.6,0.7999999999999972
+MD,Exercise,30.9,29.5,1.3999999999999986
+MD,Fruit and Vegetable Consumption,8.6,7.5,1.0999999999999996
+MD,Physical Inactivity,19.4,23.9,4.5
+MD,High-Risk HIV Behaviors,5.6,5.1,0.5
+MD,Insufficient Sleep,38.0,37.3,0.7000000000000028
+MD,E-Cigarette Use,5.1,6.5,1.4000000000000004
+MD,Smoking,7.6,12.7,5.1
+MD,Excessive Drinking,14.1,17.8,3.700000000000001
+MD,Frequent Mental Distress,14.2,16.4,2.1999999999999993
+MD,Frequent Physical Distress,11.3,11.6,0.29999999999999893
+MD,High Health Status,48.1,44.2,3.8999999999999986
+MD,Low Birth Weight,8.6,9.0,0.40000000000000036
+MD,Multiple Chronic Conditions,9.9,13.3,3.4000000000000004
+MD,Arthritis,26.0,33.3,7.299999999999997
+MD,Asthma,10.0,13.7,3.6999999999999993
+MD,Cancer,7.8,8.8,1.0000000000000009
+MD,Cardiovascular Diseases,8.1,11.4,3.3000000000000007
+MD,Chronic Kidney Disease,3.9,3.7,0.19999999999999973
+MD,Chronic Obstructive Pulmonary Disease,5.5,7.4,1.9000000000000004
+MD,Depression,18.9,20.4,1.5
+MD,Diabetes,12.4,13.2,0.7999999999999989
+MD,High Blood Pressure,35.6,44.2,8.600000000000001
+MD,High Cholesterol,39.3,39.6,0.30000000000000426
+MD,Obesity,32.6,35.8,3.1999999999999957
+ME,Volunteerism,28.6,42.7,14.100000000000001
+ME,Avoided Care Due to Cost,9.4,8.8,0.5999999999999996
+ME,Cancer Screenings,72.1,68.2,3.8999999999999915
+ME,Breast Cancer Screening,80.9,76.3,4.6000000000000085
+ME,Colorectal Cancer Screening,78.0,74.5,3.5
+ME,Dental Visit,70.3,61.9,8.399999999999999
+ME,Flu Vaccination,53.2,46.8,6.400000000000006
+ME,Dedicated Health Care Provider,90.9,90.7,0.20000000000000284
+ME,Exercise,31.9,29.7,2.1999999999999993
+ME,Fruit and Vegetable Consumption,7.0,7.3,0.2999999999999998
+ME,Physical Inactivity,18.7,25.3,6.600000000000001
+ME,High-Risk HIV Behaviors,5.9,3.9,2.0000000000000004
+ME,Insufficient Sleep,31.6,34.2,2.6000000000000014
+ME,E-Cigarette Use,6.5,6.6,0.09999999999999964
+ME,Smoking,12.4,17.3,4.9
+ME,Excessive Drinking,17.7,14.8,2.8999999999999986
+ME,Frequent Mental Distress,15.6,17.7,2.0999999999999996
+ME,Frequent Physical Distress,14.0,16.9,2.8999999999999986
+ME,High Health Status,49.8,43.5,6.299999999999997
+ME,Low Birth Weight,8.1,7.9,0.1999999999999993
+ME,Multiple Chronic Conditions,13.8,17.7,3.8999999999999986
+ME,Arthritis,32.2,37.4,5.199999999999996
+ME,Asthma,13.5,14.6,1.0999999999999996
+ME,Cancer,10.5,11.9,1.4000000000000004
+ME,Cardiovascular Diseases,9.9,12.9,3.0
+ME,Chronic Kidney Disease,4.4,4.7,0.2999999999999998
+ME,Chronic Obstructive Pulmonary Disease,8.1,10.7,2.5999999999999996
+ME,Depression,26.6,26.7,0.09999999999999787
+ME,Diabetes,10.4,13.0,2.5999999999999996
+ME,High Blood Pressure,34.0,38.4,4.399999999999999
+ME,High Cholesterol,36.0,41.7,5.700000000000003
+ME,Obesity,31.7,35.5,3.8000000000000007
+MI,Volunteerism,26.2,27.8,1.6000000000000014
+MI,Avoided Care Due to Cost,11.8,9.1,2.700000000000001
+MI,Cancer Screenings,69.8,68.7,1.0999999999999943
+MI,Breast Cancer Screening,78.3,76.3,2.0
+MI,Colorectal Cancer Screening,75.4,74.9,0.5
+MI,Dental Visit,70.7,63.8,6.900000000000006
+MI,Flu Vaccination,40.2,40.2,0.0
+MI,Dedicated Health Care Provider,88.7,87.2,1.5
+MI,Exercise,30.6,28.5,2.1000000000000014
+MI,Fruit and Vegetable Consumption,10.2,7.3,2.8999999999999995
+MI,Physical Inactivity,21.4,24.3,2.900000000000002
+MI,High-Risk HIV Behaviors,5.6,4.5,1.0999999999999996
+MI,Insufficient Sleep,35.6,33.3,2.3000000000000043
+MI,E-Cigarette Use,9.9,9.6,0.3000000000000007
+MI,Smoking,13.1,14.9,1.8000000000000007
+MI,Excessive Drinking,17.0,15.7,1.3000000000000007
+MI,Frequent Mental Distress,16.9,17.7,0.8000000000000007
+MI,Frequent Physical Distress,14.5,16.1,1.6000000000000014
+MI,High Health Status,43.9,41.3,2.6000000000000014
+MI,Low Birth Weight,9.3,7.1,2.200000000000001
+MI,Multiple Chronic Conditions,14.2,19.8,5.600000000000001
+MI,Arthritis,30.1,37.2,7.100000000000001
+MI,Asthma,12.5,13.3,0.8000000000000007
+MI,Cancer,9.0,11.1,2.0999999999999996
+MI,Cardiovascular Diseases,9.8,13.9,4.1
+MI,Chronic Kidney Disease,4.4,5.2,0.7999999999999998
+MI,Chronic Obstructive Pulmonary Disease,8.2,11.5,3.3000000000000007
+MI,Depression,26.2,29.1,2.900000000000002
+MI,Diabetes,13.5,14.1,0.5999999999999996
+MI,High Blood Pressure,35.8,41.7,5.900000000000006
+MI,High Cholesterol,34.9,38.4,3.5
+MI,Obesity,35.4,39.3,3.8999999999999986
+MN,Volunteerism,41.3,37.1,4.199999999999996
+MN,Avoided Care Due to Cost,10.0,8.8,1.1999999999999993
+MN,Cancer Screenings,68.6,67.2,1.3999999999999915
+MN,Breast Cancer Screening,77.8,79.0,1.2000000000000028
+MN,Colorectal Cancer Screening,73.9,71.0,2.9000000000000057
+MN,Dental Visit,70.7,66.7,4.0
+MN,Flu Vaccination,47.1,40.4,6.700000000000003
+MN,Dedicated Health Care Provider,83.1,83.6,0.5
+MN,Exercise,30.7,28.6,2.099999999999998
+MN,Fruit and Vegetable Consumption,8.0,5.9,2.0999999999999996
+MN,Physical Inactivity,16.3,21.4,5.099999999999998
+MN,High-Risk HIV Behaviors,5.1,3.6,1.4999999999999996
+MN,Insufficient Sleep,29.1,31.0,1.8999999999999986
+MN,E-Cigarette Use,7.3,6.6,0.7000000000000002
+MN,Smoking,9.7,11.8,2.1000000000000014
+MN,Excessive Drinking,19.6,18.9,0.7000000000000028
+MN,Frequent Mental Distress,14.0,14.1,0.09999999999999964
+MN,Frequent Physical Distress,10.3,13.1,2.799999999999999
+MN,High Health Status,51.5,48.5,3.0
+MN,Low Birth Weight,7.5,6.0,1.5
+MN,Multiple Chronic Conditions,9.0,11.9,2.9000000000000004
+MN,Arthritis,23.5,30.7,7.199999999999999
+MN,Asthma,9.4,9.0,0.40000000000000036
+MN,Cancer,8.7,10.5,1.8000000000000007
+MN,Cardiovascular Diseases,8.1,10.6,2.5
+MN,Chronic Kidney Disease,3.5,4.4,0.9000000000000004
+MN,Chronic Obstructive Pulmonary Disease,3.9,5.4,1.5000000000000004
+MN,Depression,24.8,22.6,2.1999999999999993
+MN,Diabetes,9.6,11.6,2.0
+MN,High Blood Pressure,30.4,33.4,3.0
+MN,High Cholesterol,33.5,35.0,1.5
+MN,Obesity,31.3,35.8,4.4999999999999964
+MO,Volunteerism,31.1,25.3,5.800000000000001
+MO,Avoided Care Due to Cost,11.5,10.6,0.9000000000000004
+MO,Cancer Screenings,65.5,57.7,7.799999999999997
+MO,Breast Cancer Screening,77.0,64.9,12.099999999999994
+MO,Colorectal Cancer Screening,71.8,65.0,6.799999999999997
+MO,Dental Visit,68.0,56.6,11.399999999999999
+MO,Flu Vaccination,41.6,33.7,7.899999999999999
+MO,Dedicated Health Care Provider,83.3,84.9,1.6000000000000085
+MO,Exercise,24.1,22.5,1.6000000000000014
+MO,Fruit and Vegetable Consumption,5.3,4.4,0.8999999999999995
+MO,Physical Inactivity,22.9,29.6,6.700000000000003
+MO,High-Risk HIV Behaviors,5.0,3.7,1.2999999999999998
+MO,Insufficient Sleep,35.8,39.5,3.700000000000003
+MO,E-Cigarette Use,8.1,8.5,0.40000000000000036
+MO,Smoking,13.5,17.9,4.399999999999999
+MO,Excessive Drinking,18.5,15.5,3.0
+MO,Frequent Mental Distress,16.9,19.1,2.200000000000003
+MO,Frequent Physical Distress,12.7,16.5,3.8000000000000007
+MO,High Health Status,48.3,43.3,5.0
+MO,Low Birth Weight,9.1,8.2,0.9000000000000004
+MO,Multiple Chronic Conditions,11.9,16.4,4.499999999999998
+MO,Arthritis,29.1,35.2,6.100000000000001
+MO,Asthma,10.4,10.2,0.20000000000000107
+MO,Cancer,8.2,9.0,0.8000000000000007
+MO,Cardiovascular Diseases,9.9,14.7,4.799999999999999
+MO,Chronic Kidney Disease,4.0,4.4,0.40000000000000036
+MO,Chronic Obstructive Pulmonary Disease,7.0,11.2,4.199999999999999
+MO,Depression,22.9,23.0,0.10000000000000142
+MO,Diabetes,10.3,13.8,3.5
+MO,High Blood Pressure,34.7,40.4,5.699999999999996
+MO,High Cholesterol,38.1,39.8,1.6999999999999957
+MO,Obesity,34.2,35.6,1.3999999999999986
+MS,Volunteerism,19.9,21.7,1.8000000000000007
+MS,Avoided Care Due to Cost,17.1,13.0,4.100000000000001
+MS,Cancer Screenings,64.0,60.3,3.700000000000003
+MS,Breast Cancer Screening,74.8,76.2,1.4000000000000057
+MS,Colorectal Cancer Screening,70.5,64.1,6.400000000000006
+MS,Dental Visit,66.9,62.1,4.800000000000004
+MS,Flu Vaccination,34.7,31.8,2.900000000000002
+MS,Dedicated Health Care Provider,82.7,83.2,0.5
+MS,Exercise,25.8,21.5,4.300000000000001
+MS,Fruit and Vegetable Consumption,4.4,3.8,0.6000000000000005
+MS,Physical Inactivity,29.2,31.6,2.400000000000002
+MS,High-Risk HIV Behaviors,7.7,6.5,1.2000000000000002
+MS,Insufficient Sleep,40.4,35.8,4.600000000000001
+MS,E-Cigarette Use,9.1,7.6,1.5
+MS,Smoking,12.9,14.5,1.5999999999999996
+MS,Excessive Drinking,14.0,15.0,1.0
+MS,Frequent Mental Distress,15.0,12.5,2.5
+MS,Frequent Physical Distress,14.2,13.7,0.5
+MS,High Health Status,40.6,37.5,3.1000000000000014
+MS,Low Birth Weight,11.9,12.9,1.0
+MS,Multiple Chronic Conditions,12.6,14.0,1.4000000000000004
+MS,Arthritis,30.9,33.5,2.6000000000000014
+MS,Asthma,8.6,9.5,0.9000000000000004
+MS,Cancer,7.3,7.8,0.5
+MS,Cardiovascular Diseases,10.5,12.3,1.8000000000000007
+MS,Chronic Kidney Disease,3.3,4.1,0.7999999999999998
+MS,Chronic Obstructive Pulmonary Disease,8.7,7.7,0.9999999999999991
+MS,Depression,21.5,18.4,3.1000000000000014
+MS,Diabetes,14.0,16.1,2.1000000000000014
+MS,High Blood Pressure,45.7,46.3,0.5999999999999943
+MS,High Cholesterol,39.7,39.8,0.09999999999999432
+MS,Obesity,39.9,40.7,0.8000000000000043
+MT,Volunteerism,41.2,34.8,6.400000000000006
+MT,Avoided Care Due to Cost,14.2,10.8,3.3999999999999986
+MT,Cancer Screenings,63.1,59.9,3.200000000000003
+MT,Breast Cancer Screening,69.9,68.6,1.3000000000000114
+MT,Colorectal Cancer Screening,70.4,66.4,4.0
+MT,Dental Visit,68.0,66.1,1.9000000000000057
+MT,Flu Vaccination,40.0,33.9,6.100000000000001
+MT,Dedicated Health Care Provider,79.7,79.1,0.6000000000000085
+MT,Exercise,30.2,33.3,3.099999999999998
+MT,Fruit and Vegetable Consumption,7.6,6.8,0.7999999999999998
+MT,Physical Inactivity,19.0,19.2,0.1999999999999993
+MT,High-Risk HIV Behaviors,6.7,5.5,1.2000000000000002
+MT,Insufficient Sleep,31.9,31.6,0.29999999999999716
+MT,E-Cigarette Use,11.5,8.5,3.0
+MT,Smoking,12.0,12.4,0.40000000000000036
+MT,Excessive Drinking,21.7,23.0,1.3000000000000007
+MT,Frequent Mental Distress,19.7,14.5,5.199999999999999
+MT,Frequent Physical Distress,15.1,14.2,0.9000000000000004
+MT,High Health Status,48.7,51.9,3.1999999999999957
+MT,Low Birth Weight,8.0,7.6,0.40000000000000036
+MT,Multiple Chronic Conditions,11.7,11.8,0.10000000000000142
+MT,Arthritis,29.1,30.8,1.6999999999999993
+MT,Asthma,13.6,11.7,1.9000000000000004
+MT,Cancer,9.5,10.4,0.9000000000000004
+MT,Cardiovascular Diseases,8.9,8.9,0.0
+MT,Chronic Kidney Disease,3.1,3.2,0.10000000000000009
+MT,Chronic Obstructive Pulmonary Disease,6.6,6.5,0.09999999999999964
+MT,Depression,27.4,23.2,4.199999999999999
+MT,Diabetes,8.6,8.7,0.09999999999999964
+MT,High Blood Pressure,31.8,32.4,0.5999999999999979
+MT,High Cholesterol,32.8,34.7,1.9000000000000057
+MT,Obesity,31.5,30.7,0.8000000000000007
+NC,Volunteerism,25.3,23.0,2.3000000000000007
+NC,Avoided Care Due to Cost,11.5,10.5,1.0
+NC,Cancer Screenings,66.1,67.8,1.7000000000000028
+NC,Breast Cancer Screening,77.1,80.6,3.5
+NC,Colorectal Cancer Screening,72.3,72.1,0.20000000000000284
+NC,Dental Visit,66.6,63.9,2.6999999999999957
+NC,Flu Vaccination,42.5,42.5,0.0
+NC,Dedicated Health Care Provider,82.2,83.4,1.2000000000000028
+NC,Exercise,26.6,23.9,2.700000000000003
+NC,Fruit and Vegetable Consumption,6.5,5.1,1.4000000000000004
+NC,Physical Inactivity,18.7,25.9,7.199999999999999
+NC,High-Risk HIV Behaviors,5.1,5.3,0.20000000000000018
+NC,Insufficient Sleep,34.4,32.8,1.6000000000000014
+NC,E-Cigarette Use,7.5,6.7,0.7999999999999998
+NC,Smoking,11.0,13.5,2.5
+NC,Excessive Drinking,14.9,11.9,3.0
+NC,Frequent Mental Distress,14.9,14.0,0.9000000000000004
+NC,Frequent Physical Distress,10.2,15.0,4.800000000000001
+NC,High Health Status,47.9,41.2,6.699999999999996
+NC,Low Birth Weight,9.1,10.5,1.4000000000000004
+NC,Multiple Chronic Conditions,9.6,17.5,7.9
+NC,Arthritis,25.6,37.0,11.399999999999999
+NC,Asthma,9.5,8.7,0.8000000000000007
+NC,Cancer,6.8,9.9,3.1000000000000005
+NC,Cardiovascular Diseases,8.4,12.2,3.799999999999999
+NC,Chronic Kidney Disease,3.0,5.6,2.5999999999999996
+NC,Chronic Obstructive Pulmonary Disease,6.0,9.3,3.3000000000000007
+NC,Depression,22.2,23.6,1.4000000000000021
+NC,Diabetes,11.8,18.5,6.699999999999999
+NC,High Blood Pressure,35.0,46.3,11.299999999999997
+NC,High Cholesterol,34.2,43.6,9.399999999999999
+NC,Obesity,32.9,40.5,7.600000000000001
+ND,Volunteerism,36.6,25.8,10.8
+ND,Avoided Care Due to Cost,8.8,7.6,1.200000000000001
+ND,Cancer Screenings,71.3,61.1,10.199999999999996
+ND,Breast Cancer Screening,82.4,69.1,13.300000000000011
+ND,Colorectal Cancer Screening,75.0,67.5,7.5
+ND,Dental Visit,71.1,65.4,5.699999999999989
+ND,Flu Vaccination,44.3,36.6,7.699999999999996
+ND,Dedicated Health Care Provider,84.1,84.3,0.20000000000000284
+ND,Exercise,32.4,29.3,3.099999999999998
+ND,Fruit and Vegetable Consumption,6.1,6.5,0.40000000000000036
+ND,Physical Inactivity,19.6,24.0,4.399999999999999
+ND,High-Risk HIV Behaviors,5.4,4.2,1.2000000000000002
+ND,Insufficient Sleep,31.4,35.0,3.6000000000000014
+ND,E-Cigarette Use,7.6,7.7,0.10000000000000053
+ND,Smoking,10.1,14.8,4.700000000000001
+ND,Excessive Drinking,19.7,21.4,1.6999999999999993
+ND,Frequent Mental Distress,12.3,12.9,0.5999999999999996
+ND,Frequent Physical Distress,10.0,10.7,0.6999999999999993
+ND,High Health Status,51.0,48.8,2.200000000000003
+ND,Low Birth Weight,7.7,6.5,1.2000000000000002
+ND,Multiple Chronic Conditions,10.3,11.0,0.6999999999999993
+ND,Arthritis,24.9,28.0,3.1000000000000014
+ND,Asthma,9.1,10.4,1.3000000000000007
+ND,Cancer,7.9,9.2,1.299999999999999
+ND,Cardiovascular Diseases,8.5,9.0,0.5
+ND,Chronic Kidney Disease,3.4,3.5,0.10000000000000009
+ND,Chronic Obstructive Pulmonary Disease,5.0,6.0,1.0
+ND,Depression,23.7,19.3,4.399999999999999
+ND,Diabetes,9.9,11.5,1.5999999999999996
+ND,High Blood Pressure,28.7,35.0,6.300000000000001
+ND,High Cholesterol,34.6,35.6,1.0
+ND,Obesity,34.1,39.8,5.699999999999996
+NE,Volunteerism,43.9,33.1,10.799999999999997
+NE,Avoided Care Due to Cost,11.8,10.6,1.200000000000001
+NE,Cancer Screenings,66.2,62.6,3.6000000000000014
+NE,Breast Cancer Screening,73.1,73.1,0.0
+NE,Colorectal Cancer Screening,72.2,68.3,3.9000000000000057
+NE,Dental Visit,69.2,64.4,4.799999999999997
+NE,Flu Vaccination,44.7,36.4,8.300000000000004
+NE,Dedicated Health Care Provider,80.3,82.8,2.5
+NE,Exercise,29.3,25.9,3.400000000000002
+NE,Fruit and Vegetable Consumption,6.9,6.7,0.20000000000000018
+NE,Physical Inactivity,19.7,25.4,5.699999999999999
+NE,High-Risk HIV Behaviors,5.5,4.1,1.4000000000000004
+NE,Insufficient Sleep,30.8,30.2,0.6000000000000014
+NE,E-Cigarette Use,8.6,7.6,1.0
+NE,Smoking,11.5,13.7,2.1999999999999993
+NE,Excessive Drinking,20.4,20.7,0.3000000000000007
+NE,Frequent Mental Distress,14.1,12.2,1.9000000000000004
+NE,Frequent Physical Distress,10.4,12.9,2.5
+NE,High Health Status,49.4,45.6,3.799999999999997
+NE,Low Birth Weight,8.3,7.5,0.8000000000000007
+NE,Multiple Chronic Conditions,9.0,11.3,2.3000000000000007
+NE,Arthritis,24.9,28.5,3.6000000000000014
+NE,Asthma,9.6,9.4,0.1999999999999993
+NE,Cancer,7.7,9.4,1.7000000000000002
+NE,Cardiovascular Diseases,8.3,10.3,2.0
+NE,Chronic Kidney Disease,3.7,4.0,0.2999999999999998
+NE,Chronic Obstructive Pulmonary Disease,5.3,7.0,1.7000000000000002
+NE,Depression,20.1,16.2,3.900000000000002
+NE,Diabetes,9.6,12.4,2.8000000000000007
+NE,High Blood Pressure,30.9,36.2,5.300000000000004
+NE,High Cholesterol,33.3,35.5,2.200000000000003
+NE,Obesity,36.1,40.7,4.600000000000001
+NH,Volunteerism,28.0,33.3,5.299999999999997
+NH,Avoided Care Due to Cost,8.9,8.0,0.9000000000000004
+NH,Cancer Screenings,73.0,69.8,3.200000000000003
+NH,Breast Cancer Screening,81.8,78.0,3.799999999999997
+NH,Colorectal Cancer Screening,77.7,75.7,2.0
+NH,Dental Visit,74.0,69.3,4.700000000000003
+NH,Flu Vaccination,50.3,50.4,0.10000000000000142
+NH,Dedicated Health Care Provider,91.7,89.9,1.7999999999999972
+NH,Exercise,33.5,32.4,1.1000000000000014
+NH,Fruit and Vegetable Consumption,10.8,11.7,0.8999999999999986
+NH,Physical Inactivity,17.7,19.9,2.1999999999999993
+NH,High-Risk HIV Behaviors,5.5,5.1,0.40000000000000036
+NH,Insufficient Sleep,33.3,32.4,0.8999999999999986
+NH,E-Cigarette Use,5.5,6.2,0.7000000000000002
+NH,Smoking,8.5,10.2,1.6999999999999993
+NH,Excessive Drinking,18.4,16.3,2.099999999999998
+NH,Frequent Mental Distress,15.2,14.6,0.5999999999999996
+NH,Frequent Physical Distress,11.4,11.7,0.29999999999999893
+NH,High Health Status,53.6,51.0,2.6000000000000014
+NH,Low Birth Weight,6.9,6.6,0.3000000000000007
+NH,Multiple Chronic Conditions,9.9,12.3,2.4000000000000004
+NH,Arthritis,25.9,32.1,6.200000000000003
+NH,Asthma,13.2,12.0,1.1999999999999993
+NH,Cancer,8.9,10.8,1.9000000000000004
+NH,Cardiovascular Diseases,7.7,9.7,1.9999999999999991
+NH,Chronic Kidney Disease,3.0,3.9,0.8999999999999999
+NH,Chronic Obstructive Pulmonary Disease,6.5,7.2,0.7000000000000002
+NH,Depression,22.1,24.2,2.099999999999998
+NH,Diabetes,9.9,10.5,0.5999999999999996
+NH,High Blood Pressure,33.1,33.7,0.6000000000000014
+NH,High Cholesterol,36.3,34.9,1.3999999999999986
+NH,Obesity,30.2,32.5,2.3000000000000007
+NM,Volunteerism,22.0,16.9,5.100000000000001
+NM,Avoided Care Due to Cost,12.4,12.8,0.40000000000000036
+NM,Cancer Screenings,59.8,47.1,12.699999999999996
+NM,Breast Cancer Screening,73.1,60.1,12.999999999999993
+NM,Colorectal Cancer Screening,65.8,53.4,12.399999999999999
+NM,Dental Visit,70.6,57.7,12.899999999999991
+NM,Flu Vaccination,45.0,39.4,5.600000000000001
+NM,Dedicated Health Care Provider,73.3,66.2,7.099999999999994
+NM,Exercise,32.0,27.0,5.0
+NM,Fruit and Vegetable Consumption,6.7,5.2,1.5
+NM,Physical Inactivity,18.5,28.0,9.5
+NM,High-Risk HIV Behaviors,5.4,4.4,1.0
+NM,Insufficient Sleep,31.9,34.6,2.700000000000003
+NM,E-Cigarette Use,8.0,8.7,0.6999999999999993
+NM,Smoking,10.3,15.4,5.1
+NM,Excessive Drinking,16.9,15.3,1.5999999999999979
+NM,Frequent Mental Distress,18.6,17.4,1.2000000000000028
+NM,Frequent Physical Distress,13.8,15.7,1.8999999999999986
+NM,High Health Status,42.6,38.9,3.700000000000003
+NM,Low Birth Weight,10.0,9.1,0.9000000000000004
+NM,Multiple Chronic Conditions,10.1,11.2,1.0999999999999996
+NM,Arthritis,27.9,28.7,0.8000000000000007
+NM,Asthma,11.3,8.6,2.700000000000001
+NM,Cancer,7.6,7.2,0.39999999999999947
+NM,Cardiovascular Diseases,8.1,9.2,1.0999999999999996
+NM,Chronic Kidney Disease,3.4,3.6,0.20000000000000018
+NM,Chronic Obstructive Pulmonary Disease,6.7,6.1,0.6000000000000005
+NM,Depression,19.8,17.9,1.9000000000000021
+NM,Diabetes,11.1,14.6,3.5
+NM,High Blood Pressure,33.0,36.4,3.3999999999999986
+NM,High Cholesterol,35.7,34.8,0.9000000000000057
+NM,Obesity,31.7,40.2,8.500000000000004
+NV,Avoided Care Due to Cost,17.1,13.1,4.000000000000002
+NV,Cancer Screenings,57.0,54.3,2.700000000000003
+NV,Breast Cancer Screening,70.7,72.7,2.0
+NV,Colorectal Cancer Screening,64.0,59.7,4.299999999999997
+NV,Dental Visit,64.2,59.0,5.200000000000003
+NV,Flu Vaccination,33.6,28.6,5.0
+NV,Dedicated Health Care Provider,72.6,78.7,6.1000000000000085
+NV,Exercise,31.3,28.1,3.1999999999999993
+NV,Fruit and Vegetable Consumption,5.6,6.4,0.8000000000000007
+NV,Physical Inactivity,23.2,23.6,0.40000000000000213
+NV,High-Risk HIV Behaviors,5.8,6.6,0.7999999999999998
+NV,Insufficient Sleep,39.3,35.5,3.799999999999997
+NV,E-Cigarette Use,9.3,9.4,0.09999999999999964
+NV,Smoking,11.9,11.8,0.09999999999999964
+NV,Excessive Drinking,17.0,16.6,0.3999999999999986
+NV,Frequent Mental Distress,18.3,16.0,2.3000000000000007
+NV,Frequent Physical Distress,14.1,16.9,2.799999999999999
+NV,High Health Status,43.2,41.1,2.1000000000000014
+NV,Low Birth Weight,9.5,9.4,0.09999999999999964
+NV,Multiple Chronic Conditions,11.7,13.8,2.1000000000000014
+NV,Arthritis,26.5,30.7,4.199999999999999
+NV,Asthma,8.0,14.3,6.300000000000001
+NV,Cancer,7.1,11.0,3.9000000000000004
+NV,Cardiovascular Diseases,9.6,13.4,3.8000000000000007
+NV,Chronic Kidney Disease,4.1,4.5,0.40000000000000036
+NV,Chronic Obstructive Pulmonary Disease,6.4,7.3,0.8999999999999995
+NV,Depression,20.5,21.2,0.6999999999999993
+NV,Diabetes,13.8,11.3,2.5
+NV,High Blood Pressure,33.5,38.9,5.399999999999999
+NV,High Cholesterol,38.8,43.7,4.900000000000006
+NV,Obesity,33.9,37.6,3.700000000000003
+NY,Volunteerism,25.0,32.7,7.700000000000003
+NY,Avoided Care Due to Cost,11.6,8.2,3.4000000000000004
+NY,Cancer Screenings,67.5,66.7,0.7999999999999972
+NY,Breast Cancer Screening,77.6,74.5,3.0999999999999943
+NY,Colorectal Cancer Screening,73.3,72.5,0.7999999999999972
+NY,Dental Visit,67.8,61.7,6.099999999999994
+NY,Flu Vaccination,42.9,39.0,3.8999999999999986
+NY,Dedicated Health Care Provider,86.3,89.2,2.9000000000000057
+NY,Exercise,31.0,28.9,2.1000000000000014
+NY,Fruit and Vegetable Consumption,12.0,11.8,0.1999999999999993
+NY,Physical Inactivity,23.9,24.5,0.6000000000000014
+NY,High-Risk HIV Behaviors,5.8,4.3,1.5
+NY,Insufficient Sleep,38.3,40.2,1.9000000000000057
+NY,E-Cigarette Use,6.1,9.0,2.9000000000000004
+NY,Smoking,9.5,15.7,6.199999999999999
+NY,Excessive Drinking,16.4,16.0,0.3999999999999986
+NY,Frequent Mental Distress,14.0,16.1,2.1000000000000014
+NY,Frequent Physical Distress,12.6,14.6,2.0
+NY,High Health Status,47.2,45.0,2.200000000000003
+NY,Low Birth Weight,8.6,8.1,0.5
+NY,Multiple Chronic Conditions,9.2,15.0,5.800000000000001
+NY,Arthritis,23.9,34.0,10.100000000000001
+NY,Asthma,10.4,13.9,3.5
+NY,Cancer,7.4,9.9,2.5
+NY,Cardiovascular Diseases,8.1,11.3,3.200000000000001
+NY,Chronic Kidney Disease,3.7,4.3,0.5999999999999996
+NY,Chronic Obstructive Pulmonary Disease,5.1,9.4,4.300000000000001
+NY,Depression,15.5,21.5,6.0
+NY,Diabetes,12.3,12.8,0.5
+NY,High Blood Pressure,31.5,39.4,7.899999999999999
+NY,High Cholesterol,38.7,37.0,1.7000000000000028
+NY,Obesity,29.0,36.6,7.600000000000001
+OH,Volunteerism,29.5,33.0,3.5
+OH,Avoided Care Due to Cost,10.4,9.3,1.0999999999999996
+OH,Cancer Screenings,66.3,65.1,1.2000000000000028
+OH,Breast Cancer Screening,72.5,72.2,0.29999999999999716
+OH,Colorectal Cancer Screening,74.3,70.8,3.5
+OH,Dental Visit,66.9,59.6,7.300000000000004
+OH,Flu Vaccination,41.2,33.3,7.900000000000006
+OH,Dedicated Health Care Provider,88.0,88.2,0.20000000000000284
+OH,Exercise,31.4,27.5,3.8999999999999986
+OH,Fruit and Vegetable Consumption,7.6,6.1,1.5
+OH,Physical Inactivity,21.3,25.7,4.399999999999999
+OH,High-Risk HIV Behaviors,6.3,4.7,1.5999999999999996
+OH,Insufficient Sleep,38.5,38.4,0.10000000000000142
+OH,E-Cigarette Use,8.7,10.4,1.700000000000001
+OH,Smoking,13.5,16.4,2.8999999999999986
+OH,Excessive Drinking,17.4,17.1,0.29999999999999716
+OH,Frequent Mental Distress,17.1,16.4,0.7000000000000028
+OH,Frequent Physical Distress,12.9,14.4,1.5
+OH,High Health Status,45.4,42.8,2.6000000000000014
+OH,Low Birth Weight,9.2,7.1,2.0999999999999996
+OH,Multiple Chronic Conditions,15.4,16.4,0.9999999999999982
+OH,Arthritis,31.8,35.4,3.599999999999998
+OH,Asthma,11.5,12.1,0.5999999999999996
+OH,Cancer,9.7,10.3,0.6000000000000014
+OH,Cardiovascular Diseases,10.9,11.8,0.9000000000000004
+OH,Chronic Kidney Disease,4.5,5.2,0.7000000000000002
+OH,Chronic Obstructive Pulmonary Disease,7.7,9.9,2.2
+OH,Depression,26.8,25.7,1.1000000000000014
+OH,Diabetes,12.7,14.8,2.1000000000000014
+OH,High Blood Pressure,36.1,41.3,5.199999999999996
+OH,High Cholesterol,37.2,37.9,0.6999999999999957
+OH,Obesity,35.3,43.0,7.700000000000003
+OK,Avoided Care Due to Cost,15.3,14.0,1.3000000000000007
+OK,Cancer Screenings,61.1,58.3,2.8000000000000043
+OK,Breast Cancer Screening,72.7,68.5,4.200000000000003
+OK,Colorectal Cancer Screening,66.9,65.1,1.8000000000000114
+OK,Dental Visit,62.4,58.4,4.0
+OK,Flu Vaccination,36.9,32.5,4.399999999999999
+OK,Dedicated Health Care Provider,81.6,85.5,3.9000000000000057
+OK,Exercise,24.7,20.7,4.0
+OK,Fruit and Vegetable Consumption,3.9,3.5,0.3999999999999999
+OK,Physical Inactivity,26.6,29.7,3.099999999999998
+OK,High-Risk HIV Behaviors,5.9,5.1,0.8000000000000007
+OK,Insufficient Sleep,34.5,37.4,2.8999999999999986
+OK,E-Cigarette Use,10.1,12.1,2.0
+OK,Smoking,12.7,16.8,4.100000000000001
+OK,Excessive Drinking,14.1,13.0,1.0999999999999996
+OK,Frequent Mental Distress,18.0,19.6,1.6000000000000014
+OK,Frequent Physical Distress,13.5,16.3,2.8000000000000007
+OK,High Health Status,44.5,42.0,2.5
+OK,Low Birth Weight,8.7,8.4,0.29999999999999893
+OK,Multiple Chronic Conditions,14.3,16.5,2.1999999999999993
+OK,Arthritis,28.8,34.7,5.900000000000002
+OK,Asthma,12.2,13.1,0.9000000000000004
+OK,Cancer,8.3,9.0,0.6999999999999993
+OK,Cardiovascular Diseases,10.5,13.2,2.6999999999999993
+OK,Chronic Kidney Disease,4.5,4.2,0.2999999999999998
+OK,Chronic Obstructive Pulmonary Disease,7.8,9.9,2.1000000000000005
+OK,Depression,25.3,27.9,2.599999999999998
+OK,Diabetes,12.7,14.3,1.6000000000000014
+OK,High Blood Pressure,37.0,41.3,4.299999999999997
+OK,High Cholesterol,37.7,42.2,4.5
+OK,Obesity,35.3,39.8,4.5
+OR,Volunteerism,35.7,35.7,0.0
+OR,Avoided Care Due to Cost,11.7,10.5,1.1999999999999993
+OR,Cancer Screenings,65.5,57.2,8.299999999999997
+OR,Breast Cancer Screening,72.4,62.6,9.800000000000004
+OR,Colorectal Cancer Screening,73.0,67.0,6.0
+OR,Dental Visit,68.7,62.9,5.800000000000004
+OR,Flu Vaccination,46.4,36.0,10.399999999999999
+OR,Dedicated Health Care Provider,83.9,84.3,0.3999999999999915
+OR,Exercise,32.1,33.4,1.2999999999999972
+OR,Fruit and Vegetable Consumption,6.3,7.2,0.9000000000000004
+OR,Physical Inactivity,18.5,21.4,2.8999999999999986
+OR,High-Risk HIV Behaviors,6.2,3.9,2.3000000000000003
+OR,Insufficient Sleep,30.5,33.1,2.6000000000000014
+OR,E-Cigarette Use,7.4,9.7,2.299999999999999
+OR,Smoking,10.0,13.3,3.3000000000000007
+OR,Excessive Drinking,16.2,15.9,0.29999999999999893
+OR,Frequent Mental Distress,18.9,19.4,0.5
+OR,Frequent Physical Distress,14.6,17.1,2.5000000000000018
+OR,High Health Status,45.4,40.2,5.199999999999996
+OR,Low Birth Weight,7.1,7.4,0.3000000000000007
+OR,Multiple Chronic Conditions,13.0,18.4,5.399999999999999
+OR,Arthritis,27.8,36.7,8.900000000000002
+OR,Asthma,14.2,13.9,0.29999999999999893
+OR,Cancer,10.6,13.6,3.0
+OR,Cardiovascular Diseases,8.4,13.1,4.699999999999999
+OR,Chronic Kidney Disease,3.9,7.0,3.1
+OR,Chronic Obstructive Pulmonary Disease,6.0,10.4,4.4
+OR,Depression,27.8,24.8,3.0
+OR,Diabetes,11.5,14.3,2.8000000000000007
+OR,High Blood Pressure,32.6,37.8,5.199999999999996
+OR,High Cholesterol,33.9,35.4,1.5
+OR,Obesity,32.4,38.6,6.200000000000003
+PA,Volunteerism,31.6,24.0,7.600000000000001
+PA,Avoided Care Due to Cost,10.3,6.8,3.500000000000001
+PA,Cancer Screenings,66.9,64.7,2.200000000000003
+PA,Breast Cancer Screening,77.4,71.3,6.1000000000000085
+PA,Colorectal Cancer Screening,72.5,70.8,1.7000000000000028
+PA,Dental Visit,70.4,58.7,11.700000000000003
+PA,Flu Vaccination,43.4,40.2,3.1999999999999957
+PA,Dedicated Health Care Provider,87.2,89.4,2.200000000000003
+PA,Fruit and Vegetable Consumption,8.0,6.6,1.4000000000000004
+PA,Physical Inactivity,21.6,29.9,8.299999999999997
+PA,High-Risk HIV Behaviors,5.2,3.5,1.7000000000000002
+PA,Insufficient Sleep,36.6,41.0,4.399999999999999
+PA,E-Cigarette Use,7.3,9.7,2.3999999999999995
+PA,Smoking,10.9,17.6,6.700000000000001
+PA,Excessive Drinking,17.4,18.1,0.7000000000000028
+PA,Frequent Mental Distress,15.8,17.4,1.5999999999999979
+PA,Frequent Physical Distress,13.3,16.4,3.099999999999998
+PA,High Health Status,45.4,41.5,3.8999999999999986
+PA,Low Birth Weight,8.5,7.7,0.7999999999999998
+PA,Multiple Chronic Conditions,12.9,17.8,4.9
+PA,Arthritis,28.5,39.0,10.5
+PA,Asthma,12.0,12.4,0.40000000000000036
+PA,Cancer,8.4,11.4,3.0
+PA,Cardiovascular Diseases,9.9,12.6,2.6999999999999993
+PA,Chronic Kidney Disease,4.4,6.9,2.5
+PA,Chronic Obstructive Pulmonary Disease,6.5,9.2,2.6999999999999993
+PA,Depression,21.7,24.5,2.8000000000000007
+PA,Diabetes,13.2,14.3,1.1000000000000014
+PA,Obesity,32.8,43.7,10.900000000000006
+SC,Avoided Care Due to Cost,13.6,14.9,1.3000000000000007
+SC,Cancer Screenings,67.6,66.9,0.6999999999999886
+SC,Breast Cancer Screening,77.1,77.5,0.4000000000000057
+SC,Colorectal Cancer Screening,73.4,73.3,0.10000000000000853
+SC,Dental Visit,66.5,62.6,3.8999999999999986
+SC,Flu Vaccination,38.2,34.1,4.100000000000001
+SC,Dedicated Health Care Provider,83.8,84.4,0.6000000000000085
+SC,Exercise,32.0,29.1,2.8999999999999986
+SC,Fruit and Vegetable Consumption,7.6,9.8,2.200000000000001
+SC,Physical Inactivity,21.4,24.0,2.6000000000000014
+SC,High-Risk HIV Behaviors,6.0,3.8,2.2
+SC,Insufficient Sleep,35.2,36.6,1.3999999999999986
+SC,E-Cigarette Use,8.7,6.9,1.799999999999999
+SC,Smoking,11.9,16.7,4.799999999999999
+SC,Excessive Drinking,17.8,15.2,2.6000000000000014
+SC,Frequent Mental Distress,15.2,15.1,0.09999999999999964
+SC,Frequent Physical Distress,12.8,14.4,1.5999999999999996
+SC,High Health Status,48.6,41.7,6.899999999999999
+SC,Low Birth Weight,9.7,12.1,2.4000000000000004
+SC,Multiple Chronic Conditions,13.4,15.8,2.4000000000000004
+SC,Arthritis,29.9,34.7,4.800000000000004
+SC,Asthma,9.6,10.3,0.7000000000000011
+SC,Cancer,8.9,11.5,2.5999999999999996
+SC,Cardiovascular Diseases,10.1,13.8,3.700000000000001
+SC,Chronic Kidney Disease,5.1,5.8,0.7000000000000002
+SC,Chronic Obstructive Pulmonary Disease,7.5,9.4,1.9000000000000004
+SC,Depression,20.7,20.6,0.09999999999999787
+SC,Diabetes,13.4,16.7,3.299999999999999
+SC,High Blood Pressure,37.4,48.0,10.600000000000001
+SC,High Cholesterol,39.0,41.5,2.5
+SC,Obesity,33.7,40.4,6.699999999999996
+SD,Volunteerism,35.6,39.9,4.299999999999997
+SD,Avoided Care Due to Cost,8.7,9.1,0.40000000000000036
+SD,Cancer Screenings,66.2,56.6,9.600000000000001
+SD,Breast Cancer Screening,75.5,65.6,9.900000000000006
+SD,Colorectal Cancer Screening,71.8,61.7,10.099999999999994
+SD,Dental Visit,69.2,68.4,0.7999999999999972
+SD,Flu Vaccination,47.3,36.1,11.199999999999996
+SD,Dedicated Health Care Provider,83.9,79.7,4.200000000000003
+SD,Exercise,27.8,25.1,2.6999999999999993
+SD,Fruit and Vegetable Consumption,6.1,7.5,1.4000000000000004
+SD,Physical Inactivity,20.4,22.4,2.0
+SD,Insufficient Sleep,32.0,30.5,1.5
+SD,E-Cigarette Use,7.5,8.5,1.0
+SD,Smoking,12.1,14.9,2.8000000000000007
+SD,Excessive Drinking,17.8,21.3,3.5
+SD,Frequent Mental Distress,13.6,14.0,0.40000000000000036
+SD,Frequent Physical Distress,11.5,10.6,0.9000000000000004
+SD,High Health Status,53.5,48.6,4.899999999999999
+SD,Low Birth Weight,7.4,7.0,0.40000000000000036
+SD,Multiple Chronic Conditions,11.7,8.2,3.5
+SD,Arthritis,27.1,25.8,1.3000000000000007
+SD,Asthma,9.8,8.2,1.6000000000000014
+SD,Cancer,10.4,8.8,1.5999999999999996
+SD,Cardiovascular Diseases,8.3,8.5,0.1999999999999993
+SD,Chronic Kidney Disease,5.7,2.3,3.4000000000000004
+SD,Chronic Obstructive Pulmonary Disease,5.9,4.4,1.5
+SD,Depression,19.2,17.2,2.0
+SD,Diabetes,11.6,12.1,0.5
+SD,High Blood Pressure,32.5,38.0,5.5
+SD,High Cholesterol,33.9,37.3,3.3999999999999986
+SD,Obesity,37.6,36.4,1.2000000000000028
+TN,Volunteerism,34.1,29.6,4.5
+TN,Exercise,28.2,24.9,3.3000000000000007
+TN,Fruit and Vegetable Consumption,7.0,6.4,0.5999999999999996
+TN,Insufficient Sleep,38.0,41.3,3.299999999999997
+TN,Low Birth Weight,9.3,8.2,1.1000000000000014
+TN,High Blood Pressure,38.6,46.7,8.100000000000001
+TN,High Cholesterol,39.3,44.0,4.700000000000003
+TX,Volunteerism,27.4,27.3,0.09999999999999787
+TX,Avoided Care Due to Cost,17.3,18.9,1.5999999999999979
+TX,Cancer Screenings,60.9,54.2,6.699999999999996
+TX,Breast Cancer Screening,72.5,62.0,10.5
+TX,Colorectal Cancer Screening,66.8,61.3,5.5
+TX,Dental Visit,59.2,48.8,10.400000000000006
+TX,Flu Vaccination,37.0,28.0,9.0
+TX,Dedicated Health Care Provider,75.5,80.3,4.799999999999997
+TX,Exercise,31.4,26.2,5.199999999999999
+TX,Fruit and Vegetable Consumption,9.1,6.3,2.8
+TX,Physical Inactivity,25.0,26.2,1.1999999999999993
+TX,High-Risk HIV Behaviors,6.3,4.3,2.0
+TX,Insufficient Sleep,36.7,38.1,1.3999999999999986
+TX,E-Cigarette Use,7.8,9.0,1.2000000000000002
+TX,Smoking,9.4,14.9,5.5
+TX,Excessive Drinking,17.7,18.7,1.0
+TX,Frequent Mental Distress,15.4,18.2,2.799999999999999
+TX,Frequent Physical Distress,12.2,14.0,1.8000000000000007
+TX,High Health Status,44.2,37.7,6.5
+TX,Low Birth Weight,8.6,8.1,0.5
+TX,Multiple Chronic Conditions,9.8,14.5,4.699999999999999
+TX,Arthritis,20.5,27.0,6.5
+TX,Asthma,8.4,9.7,1.299999999999999
+TX,Cancer,7.1,6.9,0.1999999999999993
+TX,Cardiovascular Diseases,7.6,13.5,5.9
+TX,Chronic Kidney Disease,4.0,5.1,1.0999999999999996
+TX,Chronic Obstructive Pulmonary Disease,5.4,9.2,3.799999999999999
+TX,Depression,21.5,24.1,2.6000000000000014
+TX,Diabetes,13.0,18.1,5.100000000000001
+TX,High Blood Pressure,31.0,43.5,12.5
+TX,High Cholesterol,36.0,39.3,3.299999999999997
+TX,Obesity,35.3,37.9,2.6000000000000014
+UT,Avoided Care Due to Cost,13.3,11.2,2.1000000000000014
+UT,Cancer Screenings,61.4,54.1,7.299999999999997
+UT,Breast Cancer Screening,69.2,62.8,6.400000000000006
+UT,Colorectal Cancer Screening,69.4,62.3,7.1000000000000085
+UT,Dental Visit,71.7,69.8,1.9000000000000057
+UT,Flu Vaccination,37.2,30.9,6.300000000000004
+UT,Dedicated Health Care Provider,79.2,82.0,2.799999999999997
+UT,Exercise,33.2,32.7,0.5
+UT,Fruit and Vegetable Consumption,7.5,6.5,1.0
+UT,Physical Inactivity,16.6,18.1,1.5
+UT,High-Risk HIV Behaviors,5.1,2.5,2.5999999999999996
+UT,Insufficient Sleep,34.2,34.2,0.0
+UT,E-Cigarette Use,6.8,7.3,0.5
+UT,Smoking,5.5,7.2,1.7000000000000002
+UT,Excessive Drinking,11.9,11.3,0.5999999999999996
+UT,Frequent Mental Distress,15.6,14.2,1.4000000000000004
+UT,Frequent Physical Distress,11.8,13.4,1.5999999999999996
+UT,High Health Status,51.9,52.0,0.10000000000000142
+UT,Low Birth Weight,7.3,7.7,0.40000000000000036
+UT,Multiple Chronic Conditions,8.4,9.0,0.5999999999999996
+UT,Arthritis,21.2,26.1,4.900000000000002
+UT,Asthma,11.6,11.3,0.29999999999999893
+UT,Cancer,8.0,9.0,1.0
+UT,Cardiovascular Diseases,6.5,8.3,1.8000000000000007
+UT,Chronic Kidney Disease,3.3,3.6,0.30000000000000027
+UT,Chronic Obstructive Pulmonary Disease,3.9,4.8,0.8999999999999999
+UT,Depression,24.2,20.1,4.099999999999998
+UT,Diabetes,8.7,8.9,0.20000000000000107
+UT,High Blood Pressure,27.1,29.6,2.5
+UT,High Cholesterol,31.2,30.6,0.5999999999999979
+UT,Obesity,31.4,27.9,3.5
+VA,Avoided Care Due to Cost,9.3,11.1,1.799999999999999
+VA,Cancer Screenings,65.7,58.2,7.5
+VA,Breast Cancer Screening,74.9,68.3,6.6000000000000085
+VA,Colorectal Cancer Screening,71.9,67.3,4.6000000000000085
+VA,Dental Visit,70.7,61.3,9.400000000000006
+VA,Flu Vaccination,45.8,38.4,7.399999999999999
+VA,Dedicated Health Care Provider,85.2,87.6,2.3999999999999915
+VA,Exercise,32.0,30.2,1.8000000000000007
+VA,Fruit and Vegetable Consumption,7.1,6.0,1.0999999999999996
+VA,Physical Inactivity,20.2,31.8,11.600000000000001
+VA,High-Risk HIV Behaviors,5.9,4.1,1.8000000000000007
+VA,Insufficient Sleep,35.8,38.4,2.6000000000000014
+VA,E-Cigarette Use,6.5,11.3,4.800000000000001
+VA,Smoking,9.6,20.0,10.4
+VA,Excessive Drinking,15.3,13.8,1.5
+VA,Frequent Mental Distress,15.1,19.5,4.4
+VA,Frequent Physical Distress,11.7,17.9,6.199999999999999
+VA,High Health Status,51.8,42.4,9.399999999999999
+VA,Low Birth Weight,8.3,9.9,1.5999999999999996
+VA,Multiple Chronic Conditions,11.2,19.4,8.2
+VA,Arthritis,27.2,35.5,8.3
+VA,Asthma,10.3,13.6,3.299999999999999
+VA,Cancer,8.9,11.7,2.799999999999999
+VA,Cardiovascular Diseases,8.2,14.7,6.5
+VA,Chronic Kidney Disease,4.3,4.9,0.6000000000000005
+VA,Chronic Obstructive Pulmonary Disease,6.0,10.4,4.4
+VA,Depression,21.1,24.9,3.799999999999997
+VA,Diabetes,12.1,17.6,5.500000000000002
+VA,High Blood Pressure,34.0,44.2,10.200000000000003
+VA,High Cholesterol,38.5,43.9,5.399999999999999
+VA,Obesity,31.3,38.4,7.099999999999998
+VT,Volunteerism,36.1,42.9,6.799999999999997
+VT,Avoided Care Due to Cost,7.6,8.0,0.40000000000000036
+VT,Cancer Screenings,71.3,68.3,3.0
+VT,Breast Cancer Screening,75.7,75.4,0.29999999999999716
+VT,Colorectal Cancer Screening,77.7,75.4,2.299999999999997
+VT,Dental Visit,74.8,68.0,6.799999999999997
+VT,Flu Vaccination,56.5,50.3,6.200000000000003
+VT,Dedicated Health Care Provider,90.7,89.9,0.7999999999999972
+VT,Exercise,36.2,32.2,4.0
+VT,Fruit and Vegetable Consumption,14.2,12.2,2.0
+VT,Physical Inactivity,12.6,17.7,5.1
+VT,High-Risk HIV Behaviors,5.6,5.2,0.39999999999999947
+VT,Insufficient Sleep,28.8,30.0,1.1999999999999993
+VT,E-Cigarette Use,6.5,5.6,0.9000000000000004
+VT,Smoking,7.6,12.1,4.5
+VT,Excessive Drinking,18.2,18.9,0.6999999999999993
+VT,Frequent Mental Distress,14.4,15.5,1.0999999999999996
+VT,Frequent Physical Distress,11.3,13.4,2.0999999999999996
+VT,High Health Status,57.7,52.0,5.700000000000003
+VT,Low Birth Weight,5.9,7.8,1.8999999999999995
+VT,Multiple Chronic Conditions,8.7,12.9,4.200000000000001
+VT,Arthritis,26.2,32.0,5.800000000000001
+VT,Asthma,11.4,12.7,1.299999999999999
+VT,Cancer,7.9,10.5,2.5999999999999996
+VT,Cardiovascular Diseases,7.4,10.4,3.0
+VT,Chronic Kidney Disease,2.0,3.2,1.2000000000000002
+VT,Chronic Obstructive Pulmonary Disease,5.1,6.2,1.1000000000000005
+VT,Depression,25.6,26.9,1.2999999999999972
+VT,Diabetes,6.5,10.3,3.8000000000000007
+VT,High Blood Pressure,29.0,34.3,5.299999999999997
+VT,High Cholesterol,31.1,34.1,3.0
+VT,Obesity,25.5,30.9,5.399999999999999
+WA,Volunteerism,34.1,22.5,11.600000000000001
+WA,Avoided Care Due to Cost,10.3,12.2,1.8999999999999986
+WA,Cancer Screenings,64.0,60.4,3.6000000000000014
+WA,Breast Cancer Screening,71.8,63.9,7.899999999999999
+WA,Colorectal Cancer Screening,71.4,70.1,1.3000000000000114
+WA,Dental Visit,71.8,63.7,8.099999999999994
+WA,Flu Vaccination,46.9,38.8,8.100000000000001
+WA,Dedicated Health Care Provider,83.8,82.1,1.7000000000000028
+WA,Exercise,31.8,31.3,0.5
+WA,Fruit and Vegetable Consumption,9.0,9.5,0.5
+WA,Physical Inactivity,17.1,19.8,2.6999999999999993
+WA,High-Risk HIV Behaviors,5.6,5.1,0.5
+WA,Insufficient Sleep,32.3,32.8,0.5
+WA,E-Cigarette Use,7.5,8.1,0.5999999999999996
+WA,Smoking,7.5,11.7,4.199999999999999
+WA,Excessive Drinking,15.8,17.5,1.6999999999999993
+WA,Frequent Mental Distress,16.4,15.8,0.5999999999999979
+WA,Frequent Physical Distress,12.5,15.0,2.5
+WA,High Health Status,48.5,46.7,1.7999999999999972
+WA,Low Birth Weight,7.0,6.8,0.20000000000000018
+WA,Multiple Chronic Conditions,9.9,12.5,2.5999999999999996
+WA,Arthritis,25.3,30.9,5.599999999999998
+WA,Asthma,10.8,12.2,1.3999999999999986
+WA,Cancer,8.4,10.0,1.5999999999999996
+WA,Cardiovascular Diseases,7.2,8.7,1.4999999999999991
+WA,Chronic Kidney Disease,3.7,3.6,0.10000000000000009
+WA,Chronic Obstructive Pulmonary Disease,4.5,6.3,1.7999999999999998
+WA,Depression,24.6,24.2,0.40000000000000213
+WA,Diabetes,9.9,10.4,0.5
+WA,High Blood Pressure,29.9,37.0,7.100000000000001
+WA,High Cholesterol,35.8,39.8,4.0
+WA,Obesity,31.1,35.0,3.8999999999999986
+WI,Volunteerism,32.7,27.6,5.100000000000001
+WI,Avoided Care Due to Cost,10.4,9.4,1.0
+WI,Cancer Screenings,70.6,67.1,3.5
+WI,Breast Cancer Screening,79.0,75.2,3.799999999999997
+WI,Colorectal Cancer Screening,75.8,72.7,3.0999999999999943
+WI,Dental Visit,70.6,66.9,3.6999999999999886
+WI,Flu Vaccination,44.3,40.7,3.5999999999999943
+WI,Dedicated Health Care Provider,83.8,84.2,0.4000000000000057
+WI,Exercise,28.5,25.2,3.3000000000000007
+WI,Fruit and Vegetable Consumption,6.4,6.1,0.3000000000000007
+WI,Physical Inactivity,21.5,22.3,0.8000000000000007
+WI,High-Risk HIV Behaviors,5.8,3.7,2.0999999999999996
+WI,Insufficient Sleep,32.8,32.7,0.09999999999999432
+WI,E-Cigarette Use,8.1,8.7,0.5999999999999996
+WI,Smoking,10.6,15.2,4.6
+WI,Excessive Drinking,20.7,19.6,1.0999999999999979
+WI,Frequent Mental Distress,16.9,17.9,1.0
+WI,Frequent Physical Distress,12.5,14.8,2.3000000000000007
+WI,High Health Status,49.1,43.9,5.200000000000003
+WI,Low Birth Weight,8.1,7.0,1.0999999999999996
+WI,Multiple Chronic Conditions,11.6,13.8,2.200000000000001
+WI,Arthritis,27.5,32.3,4.799999999999997
+WI,Asthma,11.6,10.8,0.7999999999999989
+WI,Cancer,8.3,10.0,1.6999999999999993
+WI,Cardiovascular Diseases,9.0,10.9,1.9000000000000004
+WI,Chronic Kidney Disease,4.0,4.1,0.09999999999999964
+WI,Chronic Obstructive Pulmonary Disease,6.3,7.9,1.6000000000000005
+WI,Depression,24.4,23.4,1.0
+WI,Diabetes,11.8,12.2,0.3999999999999986
+WI,High Blood Pressure,32.5,34.4,1.8999999999999986
+WI,High Cholesterol,34.6,36.9,2.299999999999997
+WI,Obesity,37.1,38.2,1.1000000000000014
+WV,Volunteerism,26.5,17.8,8.7
+WV,Avoided Care Due to Cost,12.6,13.9,1.3000000000000007
+WV,Cancer Screenings,64.9,61.5,3.4000000000000057
+WV,Breast Cancer Screening,73.4,73.1,0.30000000000001137
+WV,Colorectal Cancer Screening,71.1,66.8,4.299999999999997
+WV,Dental Visit,59.8,56.2,3.5999999999999943
+WV,Flu Vaccination,40.9,36.0,4.899999999999999
+WV,Dedicated Health Care Provider,85.9,88.1,2.1999999999999886
+WV,Exercise,22.0,18.4,3.6000000000000014
+WV,Fruit and Vegetable Consumption,5.3,4.7,0.5999999999999996
+WV,Physical Inactivity,28.1,29.7,1.5999999999999979
+WV,High-Risk HIV Behaviors,5.1,4.7,0.39999999999999947
+WV,Insufficient Sleep,40.9,42.1,1.2000000000000028
+WV,E-Cigarette Use,10.7,10.0,0.6999999999999993
+WV,Smoking,19.5,22.9,3.3999999999999986
+WV,Excessive Drinking,15.2,12.1,3.0999999999999996
+WV,Frequent Mental Distress,18.8,20.1,1.3000000000000007
+WV,Frequent Physical Distress,16.5,18.9,2.3999999999999986
+WV,High Health Status,39.1,36.9,2.200000000000003
+WV,Low Birth Weight,9.8,9.8,0.0
+WV,Multiple Chronic Conditions,18.9,23.3,4.400000000000002
+WV,Arthritis,39.0,44.7,5.700000000000003
+WV,Asthma,13.3,15.5,2.1999999999999993
+WV,Cancer,9.0,10.3,1.3000000000000007
+WV,Cardiovascular Diseases,13.8,14.9,1.0999999999999996
+WV,Chronic Kidney Disease,6.0,5.4,0.5999999999999996
+WV,Chronic Obstructive Pulmonary Disease,11.5,14.2,2.6999999999999993
+WV,Depression,30.2,30.3,0.10000000000000142
+WV,Diabetes,17.0,20.5,3.5
+WV,High Blood Pressure,43.4,47.7,4.300000000000004
+WV,High Cholesterol,43.1,47.9,4.799999999999997
+WV,Obesity,40.1,43.5,3.3999999999999986
+WY,Volunteerism,26.6,36.6,10.0
+WY,Avoided Care Due to Cost,14.3,11.1,3.200000000000001
+WY,Cancer Screenings,56.6,53.9,2.700000000000003
+WY,Breast Cancer Screening,69.1,62.9,6.199999999999996
+WY,Colorectal Cancer Screening,64.4,60.5,3.9000000000000057
+WY,Dental Visit,61.3,64.1,2.799999999999997
+WY,Flu Vaccination,34.8,33.5,1.2999999999999972
+WY,Dedicated Health Care Provider,74.2,76.8,2.5999999999999943
+WY,Exercise,29.5,30.3,0.8000000000000007
+WY,Fruit and Vegetable Consumption,8.2,5.5,2.6999999999999993
+WY,Physical Inactivity,21.2,20.9,0.3000000000000007
+WY,High-Risk HIV Behaviors,6.2,5.6,0.6000000000000005
+WY,Insufficient Sleep,33.4,31.7,1.6999999999999993
+WY,E-Cigarette Use,11.4,10.4,1.0
+WY,Smoking,13.6,12.3,1.299999999999999
+WY,Excessive Drinking,17.1,17.7,0.5999999999999979
+WY,Frequent Mental Distress,17.1,14.7,2.400000000000002
+WY,Frequent Physical Distress,14.3,14.5,0.1999999999999993
+WY,High Health Status,47.0,50.5,3.5
+WY,Low Birth Weight,10.0,8.5,1.5
+WY,Multiple Chronic Conditions,11.3,11.2,0.10000000000000142
+WY,Arthritis,27.9,28.7,0.8000000000000007
+WY,Asthma,11.2,9.9,1.299999999999999
+WY,Cancer,8.1,10.2,2.0999999999999996
+WY,Cardiovascular Diseases,8.4,8.7,0.29999999999999893
+WY,Chronic Kidney Disease,4.5,3.1,1.4
+WY,Chronic Obstructive Pulmonary Disease,7.6,6.6,1.0
+WY,Depression,25.9,23.1,2.799999999999997
+WY,Diabetes,10.4,9.9,0.5
+WY,High Blood Pressure,30.1,32.2,2.1000000000000014
+WY,High Cholesterol,33.0,34.1,1.1000000000000014
+WY,Obesity,35.3,31.2,4.099999999999998
