@@ -1,3 +1,5 @@
+[![Health Disparity Analysis App](./banner.png)](https://health-disparity-analysis-2025.streamlit.app/)
+
 # Health Disparity Analysis
 
 Quantitative analysis of health disparities across demographic and geographic dimensions in the United States.
