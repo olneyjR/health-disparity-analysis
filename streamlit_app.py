@@ -22,7 +22,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     /* Import modern font */
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
     
     /* Global styles */
     * {
@@ -32,146 +32,276 @@ st.markdown("""
     /* Hide default Streamlit elements */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
+    header {visibility: hidden;}
     
-    /* Main container */
+    /* Main container with smoother gradient */
     .main {
-        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+        background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     }
     
     /* Content width limiter */
     .main .block-container {
         max-width: 1400px;
-        padding-left: 2rem;
-        padding-right: 2rem;
+        padding: 1rem 2rem 4rem 2rem;
     }
     
-    /* Custom header - Changed to teal/cyan gradient */
+    /* Custom header with refined styling */
     .custom-header {
         background: linear-gradient(135deg, #0891b2 0%, #0e7490 100%);
-        padding: 1.5rem 2rem 2rem 2rem;
-        border-radius: 20px;
-        margin-bottom: 1.5rem;
-        box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+        padding: 2rem 3rem;
+        border-radius: 24px;
+        margin-bottom: 2rem;
+        box-shadow: 0 20px 50px rgba(8, 145, 178, 0.15);
+        border: 1px solid rgba(255, 255, 255, 0.1);
     }
     
     .custom-header h1 {
         color: white;
-        font-size: 3rem;
-        font-weight: 700;
+        font-size: 3.25rem;
+        font-weight: 800;
         margin: 0;
-        letter-spacing: -1px;
+        letter-spacing: -1.5px;
+        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     }
     
     .custom-header p {
-        color: rgba(255,255,255,0.9);
-        font-size: 1.1rem;
-        margin-top: 0.5rem;
-        font-weight: 300;
+        color: rgba(255, 255, 255, 0.95);
+        font-size: 1.15rem;
+        margin-top: 0.75rem;
+        font-weight: 400;
+        letter-spacing: 0.2px;
     }
     
-    /* Metric cards */
+    /* Enhanced metric cards */
     .metric-card {
         background: white;
-        padding: 1.5rem;
-        border-radius: 16px;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.07);
-        transition: all 0.3s ease;
-        border: 1px solid rgba(0,0,0,0.05);
+        padding: 2rem;
+        border-radius: 20px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        border: 1px solid #f1f5f9;
         height: 100%;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .metric-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, #0891b2 0%, #06b6d4 100%);
+        transform: scaleX(0);
+        transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     }
     
     .metric-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+        transform: translateY(-8px);
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+        border-color: #e0f2fe;
+    }
+    
+    .metric-card:hover::before {
+        transform: scaleX(1);
     }
     
     .metric-label {
-        font-size: 0.85rem;
-        font-weight: 500;
-        color: #6b7280;
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: #64748b;
         text-transform: uppercase;
-        letter-spacing: 0.5px;
-        margin-bottom: 0.5rem;
+        letter-spacing: 1px;
+        margin-bottom: 0.75rem;
     }
     
     .metric-value {
-        font-size: 2.5rem;
-        font-weight: 700;
-        color: #0891b2;
-        line-height: 1.2;
+        font-size: 2.75rem;
+        font-weight: 800;
+        background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        line-height: 1.1;
+        margin: 0.5rem 0;
     }
     
     .metric-delta {
-        font-size: 0.9rem;
-        color: #10b981;
+        font-size: 0.875rem;
+        color: #64748b;
         font-weight: 500;
         margin-top: 0.5rem;
     }
     
-    /* Section headers */
+    /* Refined section headers */
     .section-header {
-        font-size: 1.75rem;
-        font-weight: 700;
-        color: #1f2937;
-        margin: 2rem 0 1rem 0;
-        padding-bottom: 0.5rem;
+        font-size: 2rem;
+        font-weight: 800;
+        color: #0f172a;
+        margin: 1.5rem 0 1rem 0;
+        padding-bottom: 0.75rem;
         border-bottom: 3px solid #0891b2;
         display: inline-block;
+        letter-spacing: -0.5px;
     }
     
     .section-subheader {
-        font-size: 1.1rem;
-        font-weight: 500;
-        color: #6b7280;
-        margin-bottom: 1.5rem;
+        font-size: 1.125rem;
+        font-weight: 400;
+        color: #64748b;
+        margin-bottom: 2rem;
+        margin-top: 0.5rem;
+        line-height: 1.6;
     }
     
-    /* Sidebar styling - Changed to teal gradient */
+    /* Sidebar with enhanced gradient */
     [data-testid="stSidebar"] {
         background: linear-gradient(180deg, #0891b2 0%, #0e7490 100%);
+        border-right: 1px solid rgba(255, 255, 255, 0.1);
     }
     
     [data-testid="stSidebar"] * {
         color: white !important;
     }
     
-    /* Tabs */
+    [data-testid="stSidebar"] .css-1d391kg {
+        padding-top: 3rem;
+    }
+    
+    /* Enhanced radio buttons in sidebar */
+    [data-testid="stSidebar"] [data-baseweb="radio"] {
+        gap: 0.5rem;
+    }
+    
+    [data-testid="stSidebar"] [data-baseweb="radio"] > div {
+        background: rgba(255, 255, 255, 0.08);
+        padding: 0.75rem 1rem;
+        border-radius: 12px;
+        transition: all 0.3s ease;
+        margin: 0.25rem 0;
+        border: 2px solid transparent;
+    }
+    
+    [data-testid="stSidebar"] [data-baseweb="radio"] > div:hover {
+        background: rgba(255, 255, 255, 0.12);
+        border-color: rgba(255, 255, 255, 0.3);
+    }
+    
+    /* Selected radio button */
+    [data-testid="stSidebar"] [data-baseweb="radio"] > div[data-checked="true"] {
+        background: rgba(255, 255, 255, 0.25);
+        border-color: rgba(255, 255, 255, 0.5);
+        font-weight: 600;
+    }
+    
+    [data-testid="stSidebar"] [role="radio"][aria-checked="true"] {
+        background: rgba(255, 255, 255, 0.25) !important;
+        font-weight: 600;
+    }
+    
+    [data-testid="stSidebar"] label[data-baseweb="radio"] > div:first-child {
+        border-color: rgba(255, 255, 255, 0.8) !important;
+    }
+    
+    [data-testid="stSidebar"] label[data-baseweb="radio"] input:checked ~ div {
+        background: rgba(255, 255, 255, 0.25);
+        border-color: rgba(255, 255, 255, 0.5);
+    }
+    
+    /* Polished tabs */
     .stTabs [data-baseweb="tab-list"] {
-        gap: 8px;
+        gap: 12px;
         background-color: transparent;
+        padding: 0.5rem 0;
     }
     
     .stTabs [data-baseweb="tab"] {
         background-color: white;
-        border-radius: 8px;
-        padding: 12px 24px;
-        font-weight: 500;
-        border: 1px solid rgba(0,0,0,0.1);
+        border-radius: 12px;
+        padding: 14px 28px;
+        font-weight: 600;
+        border: 2px solid #f1f5f9;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        color: #64748b;
+    }
+    
+    .stTabs [data-baseweb="tab"]:hover {
+        border-color: #0891b2;
+        background: #f0fdff;
     }
     
     .stTabs [aria-selected="true"] {
-        background: #0891b2;
+        background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%);
         color: white !important;
+        border-color: #0891b2;
+        box-shadow: 0 4px 12px rgba(8, 145, 178, 0.2);
     }
     
-    /* Info boxes */
+    /* Enhanced info boxes */
     .info-box {
-        background: linear-gradient(135deg, #dbeafe 0%, #e0f2fe 100%);
-        padding: 1.5rem;
-        border-radius: 12px;
-        border-left: 4px solid #0891b2;
-        margin: 1rem 0;
+        background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+        padding: 2rem;
+        border-radius: 16px;
+        border-left: 5px solid #0891b2;
+        margin: 2rem 0;
+        box-shadow: 0 2px 8px rgba(8, 145, 178, 0.08);
     }
     
     .info-box-title {
-        font-weight: 600;
+        font-weight: 700;
+        font-size: 1.1rem;
         color: #0c4a6e;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.75rem;
+        letter-spacing: 0.2px;
     }
     
     .info-box-text {
         color: #0e7490;
-        line-height: 1.6;
+        line-height: 1.7;
+        font-size: 1rem;
+    }
+    
+    /* Dataframe styling */
+    [data-testid="stDataFrame"] {
+        border-radius: 16px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+    
+    /* Selectbox styling */
+    [data-baseweb="select"] {
+        border-radius: 12px;
+    }
+    
+    [data-baseweb="select"] > div {
+        border-radius: 12px;
+        border: 2px solid #f1f5f9;
+        transition: all 0.3s ease;
+    }
+    
+    [data-baseweb="select"] > div:hover {
+        border-color: #0891b2;
+    }
+    
+    /* Smooth scrollbar */
+    ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+    }
+    
+    ::-webkit-scrollbar-track {
+        background: #f1f5f9;
+        border-radius: 10px;
+    }
+    
+    ::-webkit-scrollbar-thumb {
+        background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%);
+        border-radius: 10px;
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+        background: linear-gradient(135deg, #0e7490 0%, #0891b2 100%);
     }
 </style>
 """, unsafe_allow_html=True)
@@ -257,7 +387,7 @@ def create_gauge_chart(value, title, max_value=100):
         title={'text': title, 'font': {'size': 16, 'family': 'Inter'}},
         gauge={
             'axis': {'range': [None, max_value], 'tickwidth': 1},
-            'bar': {'color': "#667eea"},
+            'bar': {'color': "#0891b2"},
             'bgcolor': "white",
             'borderwidth': 2,
             'bordercolor': "#e5e7eb",
@@ -350,7 +480,7 @@ def show_overview(metro_gaps, racial_gaps, income_gaps, composite):
     with col2:
         st.markdown(f"""
         <div class="metric-card">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 8px;">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#0891b2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 8px;">
                 <circle cx="12" cy="10" r="3"></circle>
                 <path d="M12 21.7C17.3 17 20 13 20 10a8 8 0 1 0-16 0c0 3 2.7 6.9 8 11.7z"></path>
             </svg>
@@ -362,7 +492,7 @@ def show_overview(metro_gaps, racial_gaps, income_gaps, composite):
     with col3:
         st.markdown(f"""
         <div class="metric-card">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#7c3aed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 8px;">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#0891b2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 8px;">
                 <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
                 <circle cx="9" cy="7" r="4"></circle>
                 <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
@@ -376,7 +506,7 @@ def show_overview(metro_gaps, racial_gaps, income_gaps, composite):
     with col4:
         st.markdown(f"""
         <div class="metric-card">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#1d4ed8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 8px;">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#0891b2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 8px;">
                 <line x1="12" y1="1" x2="12" y2="23"></line>
                 <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
             </svg>
@@ -391,62 +521,66 @@ def show_overview(metro_gaps, racial_gaps, income_gaps, composite):
     st.markdown('<div class="section-header">Composite Disparity Index</div>', unsafe_allow_html=True)
     st.markdown('<div class="section-subheader">States ranked by overall health inequity across all dimensions</div>', unsafe_allow_html=True)
     
-    fig_composite = create_modern_choropleth(
-        composite, 
-        'Composite_Disparity_Index',
-        'Overall Health Disparity by State',
-        colorscale="RdYlGn_r"
-    )
-    st.plotly_chart(fig_composite, use_container_width=True)
+    # Map and tables side-by-side
+    col1, col2 = st.columns([1.5, 1])
     
-    # Top/Bottom states in tabs
-    st.markdown("<br>", unsafe_allow_html=True)
-    tab1, tab2 = st.tabs(["Highest Disparity", "Lowest Disparity"])
+    with col1:
+        fig_composite = create_modern_choropleth(
+            composite, 
+            'Composite_Disparity_Index',
+            'Overall Health Disparity by State',
+            colorscale="RdYlGn_r"
+        )
+        st.plotly_chart(fig_composite, use_container_width=True)
     
-    with tab1:
-        top_states = composite.nlargest(10, 'Composite_Disparity_Index')[
-            ['State', 'Composite_Disparity_Index', 'Disparity_Rank', 'Avg_Metro_Gap', 'Avg_Racial_Gap', 'Avg_Income_Gap']
-        ].copy()
-        top_states.columns = ['State', 'Overall Index', 'Rank', 'Geographic Gap', 'Racial Gap', 'Income Gap']
-        top_states['Overall Index'] = top_states['Overall Index'].round(2)
-        top_states['Rank'] = top_states['Rank'].astype(int)
+    with col2:
+        # Top/Bottom states in tabs
+        tab1, tab2 = st.tabs(["Highest Disparity", "Lowest Disparity"])
         
-        # Apply heatmap styling to Overall Index column
-        def highlight_index(val):
-            if pd.isna(val):
-                return ''
-            color = f'background-color: rgba(239, 68, 68, {min(val/2, 0.8)})'
-            return color
+        with tab1:
+            top_states = composite.nlargest(10, 'Composite_Disparity_Index')[
+                ['State', 'Composite_Disparity_Index', 'Disparity_Rank', 'Avg_Metro_Gap', 'Avg_Racial_Gap', 'Avg_Income_Gap']
+            ].copy()
+            top_states.columns = ['State', 'Overall Index', 'Rank', 'Geographic Gap', 'Racial Gap', 'Income Gap']
+            top_states['Overall Index'] = top_states['Overall Index'].round(2)
+            top_states['Rank'] = top_states['Rank'].astype(int)
+            
+            # Apply heatmap styling to Overall Index column
+            def highlight_index(val):
+                if pd.isna(val):
+                    return ''
+                color = f'background-color: rgba(239, 68, 68, {min(val/2, 0.8)})'
+                return color
+            
+            styled_top = top_states.style.applymap(highlight_index, subset=['Overall Index'])
+            st.dataframe(styled_top, use_container_width=True, hide_index=True)
         
-        styled_top = top_states.style.applymap(highlight_index, subset=['Overall Index'])
-        st.dataframe(styled_top, use_container_width=True, hide_index=True)
-    
-    with tab2:
-        bottom_states = composite.nsmallest(10, 'Composite_Disparity_Index')[
-            ['State', 'Composite_Disparity_Index', 'Disparity_Rank', 'Avg_Metro_Gap', 'Avg_Racial_Gap', 'Avg_Income_Gap']
-        ].copy()
-        bottom_states.columns = ['State', 'Overall Index', 'Rank', 'Geographic Gap', 'Racial Gap', 'Income Gap']
-        bottom_states['Overall Index'] = bottom_states['Overall Index'].round(2)
-        bottom_states['Rank'] = bottom_states['Rank'].astype(int)
-        
-        # Apply heatmap styling to Overall Index column (green for low disparity)
-        def highlight_index_low(val):
-            if pd.isna(val):
-                return ''
-            # Get min and max from this subset for proper scaling
-            min_val = bottom_states['Overall Index'].min()
-            max_val = bottom_states['Overall Index'].max()
-            # Normalize within this range
-            if max_val - min_val > 0:
-                normalized = (val - min_val) / (max_val - min_val)
-            else:
-                normalized = 0.5
-            # Higher values in this group get darker green (they're still low overall)
-            color = f'background-color: rgba(16, 185, 129, {0.2 + normalized * 0.6})'
-            return color
-        
-        styled_bottom = bottom_states.style.applymap(highlight_index_low, subset=['Overall Index'])
-        st.dataframe(styled_bottom, use_container_width=True, hide_index=True)
+        with tab2:
+            bottom_states = composite.nsmallest(10, 'Composite_Disparity_Index')[
+                ['State', 'Composite_Disparity_Index', 'Disparity_Rank', 'Avg_Metro_Gap', 'Avg_Racial_Gap', 'Avg_Income_Gap']
+            ].copy()
+            bottom_states.columns = ['State', 'Overall Index', 'Rank', 'Geographic Gap', 'Racial Gap', 'Income Gap']
+            bottom_states['Overall Index'] = bottom_states['Overall Index'].round(2)
+            bottom_states['Rank'] = bottom_states['Rank'].astype(int)
+            
+            # Apply heatmap styling to Overall Index column (green for low disparity)
+            def highlight_index_low(val):
+                if pd.isna(val):
+                    return ''
+                # Get min and max from this subset for proper scaling
+                min_val = bottom_states['Overall Index'].min()
+                max_val = bottom_states['Overall Index'].max()
+                # Normalize within this range
+                if max_val - min_val > 0:
+                    normalized = (val - min_val) / (max_val - min_val)
+                else:
+                    normalized = 0.5
+                # Higher values in this group get darker green (they're still low overall)
+                color = f'background-color: rgba(16, 185, 129, {0.2 + normalized * 0.6})'
+                return color
+            
+            styled_bottom = bottom_states.style.applymap(highlight_index_low, subset=['Overall Index'])
+            st.dataframe(styled_bottom, use_container_width=True, hide_index=True)
     
     # Key insights
     st.markdown("<br>", unsafe_allow_html=True)
@@ -583,20 +717,18 @@ def show_racial_analysis(racial_gaps, composite):
     
     st.markdown("<br>", unsafe_allow_html=True)
     
-    # Separate measures by scale
-    st.markdown("#### Health Measures with Largest Racial Gaps")
+    col1, col2 = st.columns(2)
     
-    # Create tabs for different measure types
-    tab1, tab2 = st.tabs(["Chronic Conditions & Behaviors", "Mortality"])
-    
-    with tab1:
+    with col1:
+        st.markdown("#### Measures with Largest Racial Gaps")
+        
         # Percentage-based measures (excluding Premature Death)
         other_measures = racial_gaps[racial_gaps['Measure'] != 'Premature Death']
         
         if len(other_measures) > 0:
             measure_avg = other_measures.groupby('Measure')['Racial_Gap'].mean().reset_index()
             measure_avg.columns = ['Health Measure', 'Average Racial Gap']
-            measure_avg = measure_avg.sort_values('Average Racial Gap', ascending=True)
+            measure_avg = measure_avg.sort_values('Average Racial Gap', ascending=False).head(10)
             
             fig = go.Figure()
             
@@ -607,7 +739,7 @@ def show_racial_analysis(racial_gaps, composite):
                 marker=dict(
                     color=measure_avg['Average Racial Gap'],
                     colorscale='Purples',
-                    line=dict(color='#764ba2', width=1.5)
+                    line=dict(color='#7c3aed', width=1.5)
                 ),
                 text=measure_avg['Average Racial Gap'].round(1),
                 textposition='outside',
@@ -615,7 +747,7 @@ def show_racial_analysis(racial_gaps, composite):
             ))
             
             fig.update_layout(
-                title='Racial Disparity in Health Conditions (Percentage Points)',
+                title='Top 10 Health Measures',
                 title_font=dict(size=18, family="Inter", color="#1f2937"),
                 font=dict(family="Inter"),
                 plot_bgcolor='rgba(0,0,0,0)',
@@ -623,7 +755,7 @@ def show_racial_analysis(racial_gaps, composite):
                 xaxis=dict(
                     showgrid=True, 
                     gridcolor='#f3f4f6',
-                    title='Average Gap (Percentage Points)'
+                    title='Average Racial Gap'
                 ),
                 yaxis=dict(showgrid=False),
                 margin=dict(l=20, r=20, t=60, b=20),
@@ -632,24 +764,62 @@ def show_racial_analysis(racial_gaps, composite):
             )
             
             st.plotly_chart(fig, use_container_width=True)
-            
-            # Show insights
-            max_gap = measure_avg.iloc[-1]
-            st.markdown(f"""
-            <div class="info-box">
-                <div class="info-box-title">Key Insight</div>
-                <div class="info-box-text">
-                {max_gap['Health Measure']} shows the largest racial gap at {max_gap['Average Racial Gap']:.1f} percentage points, 
-                indicating significant disparities in health outcomes across racial groups.
-                </div>
-            </div>
-            """, unsafe_allow_html=True)
     
-    with tab2:
-        # Premature Death (different scale)
-        premature_death_data = racial_gaps[racial_gaps['Measure'] == 'Premature Death']
+    with col2:
+        st.markdown("#### States with Largest Racial Disparities")
+        top_states_racial = racial_state_avg.nlargest(10, 'Avg_Racial_Gap')
         
-        if len(premature_death_data) > 0:
+        fig = go.Figure()
+        
+        fig.add_trace(go.Bar(
+            x=top_states_racial['State'],
+            y=top_states_racial['Avg_Racial_Gap'],
+            marker=dict(
+                color=top_states_racial['Avg_Racial_Gap'],
+                colorscale='Purples',
+                line=dict(color='#7c3aed', width=1.5)
+            ),
+            text=top_states_racial['Avg_Racial_Gap'].round(1),
+            textposition='outside',
+            textfont=dict(size=12, family='Inter')
+        ))
+        
+        fig.update_layout(
+            title='Top 10 States by Racial Gap',
+            title_font=dict(size=18, family="Inter", color="#1f2937"),
+            font=dict(family="Inter"),
+            plot_bgcolor='rgba(0,0,0,0)',
+            paper_bgcolor='rgba(0,0,0,0)',
+            xaxis=dict(showgrid=False),
+            yaxis=dict(
+                showgrid=True, 
+                gridcolor='#f3f4f6',
+                title='Average Racial Gap'
+            ),
+            margin=dict(l=20, r=20, t=60, b=20),
+            height=400,
+            showlegend=False
+        )
+        
+        st.plotly_chart(fig, use_container_width=True)
+    
+    # Premature Death section
+    st.markdown("<br><br>", unsafe_allow_html=True)
+    st.markdown("#### Premature Death Racial Disparities")
+    
+    premature_death_data = racial_gaps[racial_gaps['Measure'] == 'Premature Death']
+    
+    if len(premature_death_data) > 0:
+        # Calculate stats first
+        avg_gap = premature_death_data['Racial_Gap'].mean()
+        max_gap = premature_death_data['Racial_Gap'].max()
+        max_state = premature_death_data.loc[premature_death_data['Racial_Gap'].idxmax(), 'State']
+        min_gap = premature_death_data['Racial_Gap'].min()
+        min_state = premature_death_data.loc[premature_death_data['Racial_Gap'].idxmin(), 'State']
+        
+        col1, col2 = st.columns(2)
+        
+        with col1:
             # Show state-by-state premature death gaps
             pd_by_state = premature_death_data.nlargest(15, 'Racial_Gap')[['State', 'Racial_Gap', 'Min_Value', 'Max_Value']]
             
@@ -669,7 +839,7 @@ def show_racial_analysis(racial_gaps, composite):
             ))
             
             fig.update_layout(
-                title='Premature Death Racial Disparity by State (Deaths per 100k)',
+                title='Premature Death by State (Deaths per 100k)',
                 title_font=dict(size=18, family="Inter", color="#1f2937"),
                 font=dict(family="Inter"),
                 plot_bgcolor='rgba(0,0,0,0)',
@@ -689,82 +859,28 @@ def show_racial_analysis(racial_gaps, composite):
             )
             
             st.plotly_chart(fig, use_container_width=True)
-            
-            # Summary stats
-            col1, col2, col3 = st.columns(3)
-            
-            with col1:
-                avg_gap = premature_death_data['Racial_Gap'].mean()
-                st.markdown(f"""
-                <div class="metric-card">
+        
+        with col2:
+            # Summary stats in a single container with horizontal layout
+            st.markdown(f"""
+            <div style="display: flex; flex-direction: column; gap: 1rem; height: 400px; justify-content: center;">
+                <div class="metric-card" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
                     <div class="metric-label">Average Gap</div>
-                    <div class="metric-value">{avg_gap:,.0f}</div>
+                    <div class="metric-value" style="background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">{avg_gap:,.0f}</div>
                     <div class="metric-delta">deaths per 100k</div>
                 </div>
-                """, unsafe_allow_html=True)
-            
-            with col2:
-                max_gap = premature_death_data['Racial_Gap'].max()
-                max_state = premature_death_data.loc[premature_death_data['Racial_Gap'].idxmax(), 'State']
-                st.markdown(f"""
-                <div class="metric-card">
+                <div class="metric-card" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
                     <div class="metric-label">Largest Gap</div>
-                    <div class="metric-value">{max_gap:,.0f}</div>
+                    <div class="metric-value" style="background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">{max_gap:,.0f}</div>
                     <div class="metric-delta">{max_state}</div>
                 </div>
-                """, unsafe_allow_html=True)
-            
-            with col3:
-                min_gap = premature_death_data['Racial_Gap'].min()
-                min_state = premature_death_data.loc[premature_death_data['Racial_Gap'].idxmin(), 'State']
-                st.markdown(f"""
-                <div class="metric-card">
+                <div class="metric-card" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
                     <div class="metric-label">Smallest Gap</div>
-                    <div class="metric-value">{min_gap:,.0f}</div>
+                    <div class="metric-value" style="background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">{min_gap:,.0f}</div>
                     <div class="metric-delta">{min_state}</div>
                 </div>
-                """, unsafe_allow_html=True)
-    
-    st.markdown("<br>", unsafe_allow_html=True)
-    
-    # States with largest overall disparities
-    st.markdown("#### States with Largest Overall Racial Disparities")
-    
-    top_states_racial = racial_state_avg.nlargest(10, 'Avg_Racial_Gap')
-    
-    fig = go.Figure()
-    
-    fig.add_trace(go.Bar(
-        x=top_states_racial['State'],
-        y=top_states_racial['Avg_Racial_Gap'],
-        marker=dict(
-            color=top_states_racial['Avg_Racial_Gap'],
-            colorscale='Purples',
-            line=dict(color='#7c3aed', width=1.5)
-        ),
-        text=top_states_racial['Avg_Racial_Gap'].round(1),
-        textposition='outside',
-        textfont=dict(size=12, family='Inter')
-    ))
-    
-    fig.update_layout(
-        title='Top 10 States by Average Racial Health Gap',
-        title_font=dict(size=18, family="Inter", color="#1f2937"),
-        font=dict(family="Inter"),
-        plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor='rgba(0,0,0,0)',
-        xaxis=dict(showgrid=False),
-        yaxis=dict(
-            showgrid=True, 
-            gridcolor='#f3f4f6',
-            title='Average Racial Gap'
-        ),
-        margin=dict(l=20, r=20, t=60, b=20),
-        height=400,
-        showlegend=False
-    )
-    
-    st.plotly_chart(fig, use_container_width=True)
+            </div>
+            """, unsafe_allow_html=True)
 
 
 def show_income_analysis(income_gaps, composite):
